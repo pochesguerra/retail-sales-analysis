@@ -1,0 +1,1001 @@
+CustomerID,Age,Gender,Category,ItemPurchased,Amount,Season,PaymentMethod,ItemRating,DiscountApplied,PreviousPurchases,NetAmount,AgeGroup,DiscountFlag,CustomerType
+1,58,Female,Accessories,Handbag,115.50,Autumn,Card,3.5,18.00,4,94.71,46-60,Discounted,Returning
+2,40,Male,"Mens Clothing",Shirt,103.43,Spring,Card,4.1,13.00,4,89.98,36-45,Discounted,Returning
+3,66,Female,Sports,Football,35.45,Spring,Card,3.3,11.00,3,31.55,60+,Discounted,Returning
+4,39,Female,Accessories,Handbag,153.31,Spring,Card,4.4,13.00,4,133.38,36-45,Discounted,Returning
+5,23,Female,Home,Curtains,151.43,Winter,Card,4.1,20.00,10,121.14,18-25,Discounted,Returning
+6,48,Male,Groceries,Snacks,36.76,Autumn,Card,2.5,14.00,2,31.61,46-60,Discounted,Returning
+7,54,Male,Electronics,"Mobile Phone",1396.16,Autumn,Card,4.7,18.00,4,1144.85,46-60,Discounted,Returning
+8,59,Female,Beauty,Perfume,35.55,Summer,Card,4.6,14.00,7,30.57,46-60,Discounted,Returning
+9,51,Male,Electronics,"Smart Watch",2238.79,Spring,Card,4.3,20.00,5,1791.03,46-60,Discounted,Returning
+10,47,Female,Footwear,"Formal Shoes",225.49,Spring,Card,4.7,18.00,4,184.90,46-60,Discounted,Returning
+11,32,Male,"Mens Clothing",T-Shirt,120.80,Spring,Card,3.2,8.00,4,111.14,26-35,Discounted,Returning
+12,31,Female,Accessories,Handbag,43.69,Summer,Card,3.6,8.00,4,40.19,26-35,Discounted,Returning
+13,21,Male,Sports,"Yoga Mat",79.46,Winter,"Cash on Delivery",3.8,16.00,8,66.75,18-25,Discounted,Returning
+14,22,Female,Footwear,Sandals,189.34,Summer,Card,2.9,10.00,5,170.41,18-25,Discounted,Returning
+15,47,Male,Sports,Dumbbells,222.40,Winter,Card,3.9,12.00,6,195.71,46-60,Discounted,Returning
+16,60,Male,Sports,Dumbbells,217.67,Spring,Card,4.6,27.00,11,158.90,46-60,Discounted,Returning
+17,54,Female,Footwear,Sneakers,43.80,Spring,"Cash on Delivery",2.9,20.00,5,35.04,46-60,Discounted,Returning
+18,57,Female,"Womens Clothing",Jeans,137.29,Autumn,Card,3.4,22.00,6,107.09,46-60,Discounted,Returning
+19,68,Female,Home,Lamp,105.48,Autumn,Card,4.5,14.00,7,90.71,60+,Discounted,Returning
+20,22,Female,"Womens Clothing",Skirt,173.52,Summer,Card,3.6,18.00,4,142.29,18-25,Discounted,Returning
+21,61,Female,Footwear,Sneakers,68.69,Autumn,Card,4.9,22.00,6,53.58,60+,Discounted,Returning
+22,65,Female,Sports,Dumbbells,31.21,Spring,"Cash on Delivery",3.8,14.00,7,26.84,60+,Discounted,Returning
+23,25,Male,Sports,Football,142.50,Autumn,Card,5.0,13.00,4,123.98,18-25,Discounted,Returning
+24,35,Male,"Mens Clothing",Jeans,36.98,Summer,Card,4.2,13.00,4,32.17,26-35,Discounted,Returning
+25,28,Female,"Womens Clothing",Top,56.59,Winter,Card,4.1,26.00,8,41.88,26-35,Discounted,Returning
+26,41,Male,Sports,Football,46.19,Winter,"Cash on Delivery",3.3,11.00,3,41.11,36-45,Discounted,Returning
+27,58,Female,Home,Lamp,137.60,Autumn,Card,3.7,11.00,3,122.46,46-60,Discounted,Returning
+28,24,Male,Sports,"Yoga Mat",30.97,Autumn,Card,4.4,20.00,10,24.78,18-25,Discounted,Returning
+29,50,Female,Sports,"Yoga Mat",178.68,Spring,Card,3.7,11.00,3,159.03,46-60,Discounted,Returning
+30,69,Male,Sports,Football,205.78,Autumn,Card,2.7,22.00,6,160.51,60+,Discounted,Returning
+31,43,Male,Electronics,"Smart Watch",1572.49,Autumn,Card,3.5,14.00,7,1352.34,36-45,Discounted,Returning
+32,33,Male,Footwear,"Formal Shoes",172.69,Spring,Card,4.6,19.00,7,139.88,26-35,Discounted,Returning
+33,58,Female,Beauty,Perfume,135.40,Spring,Card,3.7,9.00,2,123.21,46-60,Discounted,Returning
+34,26,Female,"Womens Clothing",Dress,169.72,Autumn,Card,3.8,14.00,2,145.96,26-35,Discounted,Returning
+35,67,Male,Sports,Football,238.13,Winter,Card,3.3,17.00,6,197.65,60+,Discounted,Returning
+36,32,Female,"Womens Clothing",Jeans,50.20,Winter,"Cash on Delivery",2.4,12.00,6,44.18,26-35,Discounted,Returning
+37,25,Female,Groceries,"Rice Pack",29.20,Summer,"Cash on Delivery",5.0,8.00,4,26.86,18-25,Discounted,Returning
+38,50,Male,"Mens Clothing",Jacket,183.20,Autumn,Card,3.9,8.00,4,168.54,46-60,Discounted,Returning
+39,47,Female,"Womens Clothing",Jeans,129.22,Winter,Card,3.7,14.00,7,111.13,46-60,Discounted,Returning
+40,66,Male,Sports,"Yoga Mat",219.86,Spring,Card,4.0,2.00,1,215.46,60+,Discounted,Returning
+41,20,Female,Beauty,Perfume,97.24,Spring,Card,4.1,19.00,7,78.76,18-25,Discounted,Returning
+42,22,Male,Electronics,Laptop,2392.70,Winter,Card,5.0,6.00,3,2249.14,18-25,Discounted,Returning
+43,23,Female,Footwear,"Formal Shoes",115.21,Summer,Card,4.2,19.00,7,93.32,18-25,Discounted,Returning
+44,66,Male,Electronics,"Mobile Phone",2260.20,Spring,Card,4.6,9.00,2,2056.78,60+,Discounted,Returning
+45,53,Female,Accessories,Sunglasses,164.67,Autumn,Card,2.6,14.00,7,141.62,46-60,Discounted,Returning
+46,24,Female,"Womens Clothing",Dress,65.55,Autumn,Card,3.7,14.00,7,56.37,18-25,Discounted,Returning
+47,22,Male,"Mens Clothing",Shirt,62.69,Winter,Card,3.6,4.00,2,60.18,18-25,Discounted,Returning
+48,31,Female,Beauty,"Makeup Set",62.91,Autumn,Card,3.5,18.00,4,51.59,26-35,Discounted,Returning
+49,36,Female,Footwear,Sneakers,165.43,Summer,Card,4.6,24.00,7,125.73,36-45,Discounted,Returning
+50,42,Female,Footwear,Sneakers,222.12,Winter,Card,3.2,18.00,4,182.14,36-45,Discounted,Returning
+51,36,Male,Home,Lamp,270.44,Winter,Card,2.3,12.00,6,237.99,36-45,Discounted,Returning
+52,25,Female,"Womens Clothing",Skirt,90.54,Autumn,"Cash on Delivery",4.6,18.00,4,74.24,18-25,Discounted,Returning
+53,49,Male,Home,"Kitchen Set",45.03,Summer,"Cash on Delivery",3.9,4.00,2,43.23,46-60,Discounted,Returning
+54,25,Female,Footwear,"Formal Shoes",180.42,Autumn,Card,3.9,22.00,6,140.73,18-25,Discounted,Returning
+55,52,Female,Accessories,Handbag,117.70,Winter,Card,3.1,8.00,4,108.28,46-60,Discounted,Returning
+56,42,Female,Beauty,"Makeup Set",31.42,Summer,Card,2.0,2.00,1,30.79,36-45,Discounted,Returning
+57,43,Female,"Womens Clothing",Skirt,188.02,Autumn,Card,4.2,17.00,6,156.06,36-45,Discounted,Returning
+58,49,Male,Groceries,Snacks,54.89,Summer,Card,4.4,19.00,7,44.46,46-60,Discounted,Returning
+59,34,Male,Electronics,Headphones,1459.73,Spring,Card,4.0,24.00,7,1109.39,26-35,Discounted,Returning
+60,58,Male,"Mens Clothing",Shirt,82.99,Spring,"Cash on Delivery",4.4,9.00,2,75.52,46-60,Discounted,Returning
+61,24,Male,"Mens Clothing",Jeans,121.20,Summer,Card,4.3,12.00,6,106.66,18-25,Discounted,Returning
+62,55,Female,Accessories,Handbag,152.29,Winter,Card,4.7,15.00,5,129.45,46-60,Discounted,Returning
+63,59,Female,Groceries,Snacks,59.46,Winter,"Cash on Delivery",4.0,18.00,4,48.76,46-60,Discounted,Returning
+64,70,Male,Groceries,"Cooking Oil",73.30,Winter,Card,2.9,9.00,2,66.70,60+,Discounted,Returning
+65,20,Male,Footwear,Sandals,123.79,Spring,Card,3.5,6.00,3,116.36,18-25,Discounted,Returning
+66,30,Female,"Womens Clothing",Skirt,155.38,Summer,Card,3.0,6.00,3,146.06,26-35,Discounted,Returning
+67,25,Male,Electronics,Laptop,1951.47,Autumn,Card,3.8,14.00,2,1678.26,18-25,Discounted,Returning
+68,41,Female,Footwear,Sneakers,102.92,Spring,Card,4.0,12.00,6,90.57,36-45,Discounted,Returning
+69,35,Female,Beauty,"Makeup Set",112.83,Spring,Card,3.8,10.00,5,101.55,26-35,Discounted,Returning
+70,29,Male,Sports,Football,30.71,Autumn,Card,3.7,16.00,3,25.80,26-35,Discounted,Returning
+71,42,Male,Sports,"Yoga Mat",101.34,Spring,Card,3.0,32.00,11,68.91,36-45,Discounted,Returning
+72,20,Male,Footwear,"Formal Shoes",213.27,Winter,Card,5.0,11.00,3,189.81,18-25,Discounted,Returning
+73,53,Male,Sports,"Yoga Mat",196.81,Winter,Card,4.4,17.00,6,163.35,46-60,Discounted,Returning
+74,58,Male,Sports,"Yoga Mat",246.49,Autumn,Card,4.5,11.00,3,219.38,46-60,Discounted,Returning
+75,40,Female,"Womens Clothing",Top,124.21,Summer,Card,3.0,6.00,3,116.76,36-45,Discounted,Returning
+76,59,Female,Beauty,"Skincare Kit",42.80,Winter,Card,3.1,13.00,4,37.24,46-60,Discounted,Returning
+77,70,Male,"Mens Clothing",Shirt,96.18,Autumn,Card,2.7,20.00,5,76.94,60+,Discounted,Returning
+78,38,Male,Electronics,"Mobile Phone",2888.09,Winter,Card,3.6,8.00,4,2657.04,36-45,Discounted,Returning
+79,62,Female,Accessories,Sunglasses,151.06,Autumn,Card,4.1,20.00,5,120.85,60+,Discounted,Returning
+80,35,Female,Accessories,Handbag,141.45,Autumn,Card,5.0,19.00,7,114.57,26-35,Discounted,Returning
+81,26,Male,Groceries,"Cooking Oil",73.66,Spring,Card,4.7,11.00,3,65.56,26-35,Discounted,Returning
+82,58,Male,"Mens Clothing",Jacket,36.29,Autumn,Card,3.4,6.00,3,34.11,46-60,Discounted,Returning
+83,45,Male,Footwear,Sandals,208.84,Summer,Card,4.4,18.00,9,171.25,36-45,Discounted,Returning
+84,58,Female,"Womens Clothing",Dress,98.33,Spring,Card,4.1,26.00,8,72.76,46-60,Discounted,Returning
+85,49,Female,"Womens Clothing",Dress,37.16,Summer,"Cash on Delivery",3.7,16.00,3,31.21,46-60,Discounted,Returning
+86,65,Female,Beauty,"Makeup Set",41.71,Winter,Card,3.3,19.00,7,33.79,60+,Discounted,Returning
+87,22,Female,Beauty,"Makeup Set",145.98,Summer,Card,3.5,24.00,7,110.94,18-25,Discounted,Returning
+88,44,Male,Electronics,"Mobile Phone",1643.58,Autumn,Card,3.2,11.00,3,1462.79,36-45,Discounted,Returning
+89,61,Male,Electronics,Laptop,2338.03,Spring,Card,3.8,14.00,2,2010.71,60+,Discounted,Returning
+90,56,Female,Groceries,"Rice Pack",68.84,Summer,"Cash on Delivery",5.0,19.00,7,55.76,46-60,Discounted,Returning
+91,35,Female,Accessories,Sunglasses,45.66,Spring,"Cash on Delivery",4.6,18.00,4,37.44,26-35,Discounted,Returning
+92,51,Male,Footwear,Sandals,40.24,Winter,Card,3.8,18.00,4,33.00,46-60,Discounted,Returning
+93,36,Female,Footwear,Sneakers,203.77,Spring,Card,4.4,19.00,7,165.05,36-45,Discounted,Returning
+94,20,Female,Accessories,Wallet,159.45,Winter,Card,4.6,20.00,5,127.56,18-25,Discounted,Returning
+95,25,Male,Footwear,Sandals,183.49,Autumn,Card,3.5,20.00,5,146.79,18-25,Discounted,Returning
+96,21,Male,"Mens Clothing",Jacket,76.45,Summer,Card,4.4,12.00,6,67.28,18-25,Discounted,Returning
+97,20,Female,Accessories,Wallet,54.10,Summer,Card,4.1,16.00,3,45.44,18-25,Discounted,Returning
+98,65,Female,Accessories,Handbag,41.00,Autumn,"Cash on Delivery",4.0,10.00,5,36.90,60+,Discounted,Returning
+99,39,Female,Footwear,Sneakers,73.77,Spring,Card,3.5,17.00,6,61.23,36-45,Discounted,Returning
+100,51,Male,Electronics,"Smart Watch",2449.63,Autumn,Card,1.9,4.00,2,2351.64,46-60,Discounted,Returning
+101,65,Female,Home,Curtains,86.79,Spring,"Cash on Delivery",3.6,12.00,6,76.38,60+,Discounted,Returning
+102,58,Female,"Womens Clothing",Skirt,64.03,Summer,Card,3.2,13.00,4,55.71,46-60,Discounted,Returning
+103,50,Female,Footwear,"Formal Shoes",171.31,Autumn,Card,5.0,21.00,8,135.33,46-60,Discounted,Returning
+104,42,Female,Groceries,Snacks,21.44,Autumn,Card,3.6,19.00,7,17.37,36-45,Discounted,Returning
+105,60,Male,"Mens Clothing",Jacket,145.64,Winter,Card,3.3,2.00,1,142.73,46-60,Discounted,Returning
+106,50,Female,Footwear,Sneakers,112.65,Spring,Card,3.9,10.00,5,101.39,46-60,Discounted,Returning
+107,55,Female,Footwear,"Formal Shoes",177.55,Summer,Card,4.2,17.00,6,147.37,46-60,Discounted,Returning
+108,61,Female,"Womens Clothing",Skirt,100.22,Summer,Card,3.8,4.00,2,96.21,60+,Discounted,Returning
+109,33,Female,Footwear,"Formal Shoes",60.00,Summer,Card,3.3,8.00,4,55.20,26-35,Discounted,Returning
+110,66,Male,Footwear,"Formal Shoes",75.65,Winter,Card,4.0,14.00,7,65.06,60+,Discounted,Returning
+111,66,Male,Electronics,Laptop,2263.46,Autumn,Card,3.8,13.00,4,1969.21,60+,Discounted,Returning
+112,45,Male,Footwear,"Formal Shoes",77.80,Winter,"Cash on Delivery",3.2,9.00,2,70.80,36-45,Discounted,Returning
+113,69,Female,"Womens Clothing",Top,84.93,Autumn,"Cash on Delivery",4.6,17.00,6,70.49,60+,Discounted,Returning
+114,27,Female,Sports,Football,124.84,Spring,Card,3.2,20.00,10,99.87,26-35,Discounted,Returning
+115,23,Male,Footwear,"Formal Shoes",122.71,Summer,Card,3.4,8.00,4,112.89,18-25,Discounted,Returning
+116,60,Male,Electronics,"Mobile Phone",1317.58,Winter,Card,4.2,26.00,8,975.01,46-60,Discounted,Returning
+117,31,Female,Beauty,Perfume,70.51,Spring,"Cash on Delivery",4.2,18.00,4,57.82,26-35,Discounted,Returning
+118,28,Male,Sports,"Yoga Mat",132.82,Autumn,Card,2.9,9.00,2,120.87,26-35,Discounted,Returning
+119,56,Male,Footwear,Sandals,200.63,Summer,Card,4.0,18.00,4,164.52,46-60,Discounted,Returning
+120,34,Female,"Womens Clothing",Skirt,47.24,Spring,"Cash on Delivery",4.1,15.00,5,40.15,26-35,Discounted,Returning
+121,37,Female,Footwear,"Formal Shoes",65.60,Winter,"Cash on Delivery",3.2,15.00,5,55.76,36-45,Discounted,Returning
+122,63,Female,Accessories,Sunglasses,20.41,Autumn,"Cash on Delivery",3.7,17.00,6,16.94,60+,Discounted,Returning
+123,35,Male,Electronics,"Smart Watch",1187.02,Autumn,Card,3.5,15.00,5,1008.97,26-35,Discounted,Returning
+124,53,Male,Electronics,"Mobile Phone",559.10,Autumn,Card,3.4,17.00,6,464.05,46-60,Discounted,Returning
+125,54,Male,Footwear,"Formal Shoes",129.92,Winter,Card,4.2,13.00,4,113.03,46-60,Discounted,Returning
+126,65,Female,Groceries,Beverages,19.39,Spring,"Cash on Delivery",3.4,6.00,3,18.23,60+,Discounted,Returning
+127,24,Female,Beauty,"Makeup Set",97.07,Autumn,"Cash on Delivery",2.4,13.00,4,84.45,18-25,Discounted,Returning
+128,55,Male,Sports,Dumbbells,70.21,Spring,"Cash on Delivery",3.4,18.00,4,57.57,46-60,Discounted,Returning
+129,64,Male,Sports,"Yoga Mat",248.31,Winter,Card,3.7,19.00,7,201.13,60+,Discounted,Returning
+130,21,Male,Sports,Football,149.61,Autumn,Card,3.6,21.00,8,118.19,18-25,Discounted,Returning
+131,66,Male,Home,Lamp,132.77,Spring,Card,3.5,17.00,6,110.20,60+,Discounted,Returning
+132,39,Female,Beauty,"Makeup Set",37.23,Winter,Card,3.4,14.00,7,32.02,36-45,Discounted,Returning
+133,53,Female,Footwear,Sneakers,88.84,Summer,"Cash on Delivery",1.8,16.00,3,74.63,46-60,Discounted,Returning
+134,25,Female,"Womens Clothing",Top,140.53,Spring,Card,3.9,11.00,3,125.07,18-25,Discounted,Returning
+135,30,Female,Sports,Football,121.83,Autumn,Card,3.5,16.00,3,102.34,26-35,Discounted,Returning
+136,23,Male,Electronics,Headphones,1052.01,Autumn,Card,4.1,24.00,7,799.53,18-25,Discounted,Returning
+137,41,Female,Groceries,"Cooking Oil",77.29,Winter,Card,3.9,18.00,4,63.38,36-45,Discounted,Returning
+138,40,Female,Beauty,"Skincare Kit",124.20,Spring,Card,3.1,17.00,6,103.09,36-45,Discounted,Returning
+139,23,Female,Footwear,"Formal Shoes",139.96,Autumn,Card,4.1,18.00,9,114.77,18-25,Discounted,Returning
+140,59,Male,Footwear,"Formal Shoes",121.13,Summer,Card,3.6,10.00,5,109.02,46-60,Discounted,Returning
+141,56,Female,Groceries,Snacks,58.72,Autumn,Card,2.6,2.00,1,57.55,46-60,Discounted,Returning
+142,34,Male,Sports,Dumbbells,64.17,Autumn,Card,3.0,8.00,4,59.04,26-35,Discounted,Returning
+143,59,Male,Footwear,"Formal Shoes",42.19,Spring,"Cash on Delivery",3.2,4.00,2,40.50,46-60,Discounted,Returning
+144,40,Female,Footwear,"Formal Shoes",166.40,Autumn,Card,3.8,14.00,7,143.10,36-45,Discounted,Returning
+145,33,Female,"Womens Clothing",Top,76.54,Summer,Card,4.2,6.00,3,71.95,26-35,Discounted,Returning
+146,68,Female,"Womens Clothing",Dress,158.36,Spring,Card,3.6,23.00,9,121.94,60+,Discounted,Returning
+147,48,Male,Footwear,"Formal Shoes",84.84,Summer,Card,4.7,26.00,8,62.78,46-60,Discounted,Returning
+148,27,Female,Footwear,Sneakers,195.76,Summer,Card,4.0,17.00,6,162.48,26-35,Discounted,Returning
+149,46,Male,Sports,Football,146.21,Summer,Card,3.6,8.00,4,134.51,46-60,Discounted,Returning
+150,35,Male,"Mens Clothing",T-Shirt,115.35,Winter,Card,4.1,13.00,4,100.35,26-35,Discounted,Returning
+151,57,Male,Sports,Football,31.54,Winter,"Cash on Delivery",5.0,16.00,3,26.49,46-60,Discounted,Returning
+152,35,Female,Footwear,"Formal Shoes",142.19,Spring,Card,3.6,16.00,3,119.44,26-35,Discounted,Returning
+153,38,Female,Footwear,"Formal Shoes",246.21,Autumn,Card,3.1,8.00,4,226.51,36-45,Discounted,Returning
+154,68,Male,Footwear,Sandals,194.06,Spring,Card,3.8,18.00,4,159.13,60+,Discounted,Returning
+155,66,Female,Accessories,Handbag,172.05,Winter,Card,2.5,17.00,6,142.80,60+,Discounted,Returning
+156,38,Female,"Womens Clothing",Skirt,94.08,Summer,"Cash on Delivery",4.1,22.00,6,73.38,36-45,Discounted,Returning
+157,20,Female,"Womens Clothing",Dress,57.01,Summer,Card,3.1,15.00,5,48.46,18-25,Discounted,Returning
+158,47,Female,Footwear,"Formal Shoes",130.07,Spring,Card,3.1,13.00,4,113.16,46-60,Discounted,Returning
+159,62,Male,"Mens Clothing",Shirt,161.22,Autumn,Card,4.7,18.00,4,132.20,60+,Discounted,Returning
+160,33,Male,Electronics,"Mobile Phone",862.41,Spring,Card,3.5,12.00,6,758.92,26-35,Discounted,Returning
+161,23,Male,Footwear,"Formal Shoes",157.86,Spring,Card,5.0,13.00,4,137.34,18-25,Discounted,Returning
+162,25,Female,Beauty,"Skincare Kit",142.94,Autumn,Card,4.5,17.00,6,118.64,18-25,Discounted,Returning
+163,29,Male,Sports,Football,70.31,Summer,"Cash on Delivery",3.0,8.00,4,64.69,26-35,Discounted,Returning
+164,60,Female,"Womens Clothing",Dress,34.62,Summer,Card,4.2,20.00,5,27.70,46-60,Discounted,Returning
+165,69,Male,Footwear,Sandals,82.79,Summer,"Cash on Delivery",5.0,21.00,8,65.40,60+,Discounted,Returning
+166,35,Male,Footwear,"Formal Shoes",75.46,Autumn,Card,2.5,16.00,3,63.39,26-35,Discounted,Returning
+167,49,Female,Accessories,Handbag,148.58,Summer,Card,4.3,26.00,8,109.95,46-60,Discounted,Returning
+168,52,Female,"Womens Clothing",Top,43.50,Autumn,"Cash on Delivery",3.4,24.00,7,33.06,46-60,Discounted,Returning
+169,28,Male,"Mens Clothing",Jacket,179.57,Winter,Card,3.2,6.00,3,168.80,26-35,Discounted,Returning
+170,70,Male,Sports,Football,122.99,Autumn,Card,3.4,10.00,5,110.69,60+,Discounted,Returning
+171,53,Female,Footwear,Sandals,76.73,Autumn,"Cash on Delivery",5.0,24.00,7,58.31,46-60,Discounted,Returning
+172,36,Male,Sports,Football,227.24,Summer,Card,3.4,14.00,2,195.43,36-45,Discounted,Returning
+173,53,Female,"Womens Clothing",Jeans,94.87,Winter,"Cash on Delivery",3.6,13.00,4,82.54,46-60,Discounted,Returning
+174,38,Female,"Womens Clothing",Skirt,166.83,Winter,Card,4.1,16.00,3,140.14,36-45,Discounted,Returning
+175,38,Male,Sports,"Yoga Mat",52.06,Winter,Card,2.3,4.00,2,49.98,36-45,Discounted,Returning
+176,54,Male,"Mens Clothing",Shirt,38.18,Winter,"Cash on Delivery",3.5,12.00,6,33.60,46-60,Discounted,Returning
+177,67,Female,Accessories,Wallet,156.91,Summer,Card,3.3,8.00,4,144.36,60+,Discounted,Returning
+178,36,Female,Beauty,"Skincare Kit",110.28,Spring,Card,3.8,16.00,3,92.64,36-45,Discounted,Returning
+179,48,Female,Accessories,Wallet,114.67,Winter,Card,3.5,8.00,4,105.50,46-60,Discounted,Returning
+180,20,Female,"Womens Clothing",Top,73.25,Winter,Card,2.5,11.00,3,65.19,18-25,Discounted,Returning
+181,48,Male,Sports,"Yoga Mat",162.43,Summer,Card,3.4,11.00,3,144.56,46-60,Discounted,Returning
+182,40,Male,"Mens Clothing",Jeans,79.89,Summer,Card,4.4,18.00,4,65.51,36-45,Discounted,Returning
+183,60,Male,Footwear,"Formal Shoes",248.49,Autumn,Card,4.2,6.00,3,233.58,46-60,Discounted,Returning
+184,52,Male,Sports,"Yoga Mat",187.31,Winter,Card,4.7,7.00,1,174.20,46-60,Discounted,Returning
+185,66,Male,Home,Curtains,60.91,Winter,Card,4.0,8.00,4,56.04,60+,Discounted,Returning
+186,60,Female,Accessories,Handbag,21.62,Spring,"Cash on Delivery",3.8,19.00,7,17.51,46-60,Discounted,Returning
+187,36,Male,Footwear,Sandals,142.06,Autumn,Card,3.5,4.00,2,136.38,36-45,Discounted,Returning
+188,57,Female,Accessories,Wallet,84.62,Autumn,Card,2.8,18.00,4,69.39,46-60,Discounted,Returning
+189,63,Male,Footwear,Sandals,162.26,Autumn,Card,3.5,12.00,6,142.79,60+,Discounted,Returning
+190,38,Male,"Mens Clothing",T-Shirt,31.14,Summer,Card,4.4,19.00,7,25.22,36-45,Discounted,Returning
+191,23,Male,Groceries,"Cooking Oil",7.07,Spring,"Cash on Delivery",3.7,18.00,4,5.80,18-25,Discounted,Returning
+192,56,Female,Home,Lamp,157.98,Winter,Card,4.8,10.00,5,142.18,46-60,Discounted,Returning
+193,51,Female,Beauty,"Skincare Kit",82.12,Winter,Card,3.2,13.00,4,71.44,46-60,Discounted,Returning
+194,65,Male,Sports,Dumbbells,150.48,Winter,Card,3.5,20.00,5,120.38,60+,Discounted,Returning
+195,36,Male,Sports,"Yoga Mat",153.11,Summer,Card,4.0,6.00,3,143.92,36-45,Discounted,Returning
+196,46,Male,"Mens Clothing",Shirt,107.94,Spring,Card,3.8,6.00,3,101.46,46-60,Discounted,Returning
+197,31,Female,Sports,"Yoga Mat",245.72,Winter,Card,4.1,20.00,5,196.58,26-35,Discounted,Returning
+198,70,Female,Beauty,"Makeup Set",79.28,Winter,Card,2.0,12.00,6,69.77,60+,Discounted,Returning
+199,68,Male,Footwear,Sandals,225.53,Spring,Card,4.5,13.00,4,196.21,60+,Discounted,Returning
+200,29,Female,Beauty,"Makeup Set",63.34,Summer,Card,4.5,17.00,6,52.57,26-35,Discounted,Returning
+201,20,Female,Beauty,Perfume,38.57,Spring,Card,4.6,19.00,7,31.24,18-25,Discounted,Returning
+202,30,Male,"Mens Clothing",T-Shirt,128.10,Summer,Card,3.0,12.00,1,112.73,26-35,Discounted,Returning
+203,57,Female,Beauty,Perfume,129.47,Spring,Card,4.4,15.00,5,110.05,46-60,Discounted,Returning
+204,46,Female,Beauty,Perfume,49.38,Spring,"Cash on Delivery",3.4,19.00,7,40.00,46-60,Discounted,Returning
+205,55,Female,Footwear,"Formal Shoes",90.81,Autumn,Card,4.4,24.00,7,69.02,46-60,Discounted,Returning
+206,68,Male,Groceries,"Cooking Oil",63.73,Winter,Card,4.5,24.00,7,48.43,60+,Discounted,Returning
+207,62,Male,"Mens Clothing",T-Shirt,127.21,Autumn,Card,4.9,14.00,7,109.40,60+,Discounted,Returning
+208,29,Male,Groceries,Snacks,54.98,Autumn,"Cash on Delivery",2.9,16.00,8,46.18,26-35,Discounted,Returning
+209,58,Female,Accessories,Sunglasses,37.76,Autumn,Card,3.5,14.00,2,32.47,46-60,Discounted,Returning
+210,50,Female,Beauty,"Makeup Set",81.40,Spring,"Cash on Delivery",4.9,20.00,5,65.12,46-60,Discounted,Returning
+211,22,Female,Footwear,Sneakers,183.26,Winter,Card,2.4,6.00,3,172.26,18-25,Discounted,Returning
+212,29,Female,"Womens Clothing",Jeans,172.51,Autumn,Card,3.8,13.00,4,150.08,26-35,Discounted,Returning
+213,43,Male,Sports,"Yoga Mat",141.78,Winter,Card,2.9,24.00,7,107.75,36-45,Discounted,Returning
+214,25,Male,Groceries,"Rice Pack",62.99,Autumn,Card,2.9,16.00,3,52.91,18-25,Discounted,Returning
+215,32,Male,Footwear,Sneakers,154.86,Spring,Card,4.1,18.00,4,126.99,26-35,Discounted,Returning
+216,47,Male,Footwear,"Formal Shoes",162.26,Autumn,Card,4.0,19.00,7,131.43,46-60,Discounted,Returning
+217,26,Female,Beauty,"Makeup Set",60.97,Spring,Card,4.6,21.00,8,48.17,26-35,Discounted,Returning
+218,69,Female,Groceries,Beverages,52.32,Winter,"Cash on Delivery",3.6,10.00,5,47.09,60+,Discounted,Returning
+219,25,Female,"Womens Clothing",Top,122.97,Autumn,Card,4.3,24.00,7,93.46,18-25,Discounted,Returning
+220,63,Female,Sports,Dumbbells,245.76,Spring,Card,4.0,13.00,4,213.81,60+,Discounted,Returning
+221,45,Female,Sports,Football,229.28,Autumn,Card,4.9,16.00,8,192.60,36-45,Discounted,Returning
+222,43,Female,"Womens Clothing",Jeans,32.06,Summer,Card,3.5,7.00,1,29.82,36-45,Discounted,Returning
+223,40,Female,Footwear,"Formal Shoes",148.08,Winter,Card,3.7,10.00,5,133.27,36-45,Discounted,Returning
+224,48,Male,Sports,Football,32.34,Winter,"Cash on Delivery",4.1,6.00,3,30.40,46-60,Discounted,Returning
+225,39,Male,Sports,Football,79.09,Winter,Card,4.0,8.00,4,72.76,36-45,Discounted,Returning
+226,23,Male,Sports,Dumbbells,121.19,Autumn,Card,3.2,17.00,6,100.59,18-25,Discounted,Returning
+227,42,Female,"Womens Clothing",Jeans,64.76,Summer,Card,3.7,11.00,3,57.64,36-45,Discounted,Returning
+228,43,Male,Electronics,"Smart Watch",2234.05,Summer,Card,4.2,12.00,6,1965.96,36-45,Discounted,Returning
+229,60,Male,Sports,"Yoga Mat",106.49,Summer,Card,3.4,16.00,3,89.45,46-60,Discounted,Returning
+230,55,Male,Electronics,Headphones,2024.08,Summer,Card,3.2,18.00,4,1659.75,46-60,Discounted,Returning
+231,55,Male,"Mens Clothing",Shirt,122.22,Summer,Card,4.1,13.00,4,106.33,46-60,Discounted,Returning
+232,51,Female,Beauty,Perfume,112.88,Autumn,Card,4.9,22.00,6,88.05,46-60,Discounted,Returning
+233,58,Male,Footwear,Sandals,66.28,Winter,"Cash on Delivery",2.7,6.00,3,62.30,46-60,Discounted,Returning
+234,22,Male,Sports,Dumbbells,122.95,Autumn,Card,3.1,22.00,6,95.90,18-25,Discounted,Returning
+235,54,Female,Beauty,"Makeup Set",129.63,Spring,Card,5.0,10.00,5,116.67,46-60,Discounted,Returning
+236,59,Male,"Mens Clothing",Jacket,191.92,Autumn,Card,3.9,21.00,8,151.62,46-60,Discounted,Returning
+237,22,Female,Accessories,Sunglasses,21.95,Winter,"Cash on Delivery",3.6,16.00,3,18.44,18-25,Discounted,Returning
+238,24,Male,Electronics,"Mobile Phone",1117.83,Summer,Card,2.9,13.00,4,972.51,18-25,Discounted,Returning
+239,58,Female,Footwear,"Formal Shoes",194.03,Spring,Card,3.0,21.00,8,153.28,46-60,Discounted,Returning
+240,24,Female,Beauty,"Makeup Set",111.59,Summer,Card,3.7,8.00,4,102.66,18-25,Discounted,Returning
+241,35,Female,"Womens Clothing",Top,194.65,Autumn,Card,3.6,9.00,2,177.13,26-35,Discounted,Returning
+242,63,Male,Footwear,"Formal Shoes",96.15,Winter,Card,3.2,9.00,2,87.50,60+,Discounted,Returning
+243,51,Female,Accessories,Sunglasses,115.63,Winter,Card,2.9,19.00,7,93.66,46-60,Discounted,Returning
+244,47,Male,Sports,Football,146.95,Spring,Card,5.0,24.00,7,111.68,46-60,Discounted,Returning
+245,69,Male,Electronics,Headphones,2517.97,Autumn,Card,4.3,28.00,9,1812.94,60+,Discounted,Returning
+246,66,Female,Beauty,"Makeup Set",55.20,Summer,Card,3.6,11.00,3,49.13,60+,Discounted,Returning
+247,35,Female,Accessories,Wallet,161.59,Spring,Card,3.4,22.00,6,126.04,26-35,Discounted,Returning
+248,36,Male,Footwear,Sneakers,110.06,Spring,Card,3.9,19.00,7,89.15,36-45,Discounted,Returning
+249,59,Female,Accessories,Handbag,145.44,Summer,Card,4.5,22.00,6,113.44,46-60,Discounted,Returning
+250,20,Male,"Mens Clothing",Jeans,99.49,Autumn,"Cash on Delivery",3.8,18.00,9,81.58,18-25,Discounted,Returning
+251,46,Female,Beauty,"Skincare Kit",116.53,Winter,Card,4.2,12.00,6,102.55,46-60,Discounted,Returning
+252,68,Male,"Mens Clothing",Jacket,170.91,Winter,Card,3.8,14.00,7,146.98,60+,Discounted,Returning
+253,66,Male,Sports,"Yoga Mat",111.58,Autumn,Card,3.4,21.00,8,88.15,60+,Discounted,Returning
+254,70,Female,Home,"Kitchen Set",96.25,Autumn,"Cash on Delivery",2.9,14.00,2,82.78,60+,Discounted,Returning
+255,43,Female,Beauty,Perfume,118.00,Winter,Card,4.1,12.00,6,103.84,36-45,Discounted,Returning
+256,67,Male,Electronics,Laptop,1597.74,Summer,Card,5.0,30.00,10,1118.42,60+,Discounted,Returning
+257,48,Male,"Mens Clothing",T-Shirt,179.87,Summer,Card,3.7,17.00,6,149.29,46-60,Discounted,Returning
+258,38,Female,Accessories,Sunglasses,22.14,Autumn,"Cash on Delivery",4.7,9.00,2,20.15,36-45,Discounted,Returning
+259,41,Female,Beauty,Perfume,28.65,Summer,Card,2.3,8.00,4,26.36,36-45,Discounted,Returning
+260,33,Female,Accessories,Wallet,79.92,Summer,"Cash on Delivery",4.2,14.00,2,68.73,26-35,Discounted,Returning
+261,21,Female,Beauty,Perfume,124.58,Summer,Card,4.3,19.00,7,100.91,18-25,Discounted,Returning
+262,26,Female,Home,Lamp,72.84,Summer,Card,3.1,14.00,7,62.64,26-35,Discounted,Returning
+263,35,Female,Beauty,"Skincare Kit",47.94,Spring,Card,3.6,13.00,4,41.71,26-35,Discounted,Returning
+264,51,Male,"Mens Clothing",Shirt,74.89,Spring,"Cash on Delivery",3.2,22.00,6,58.41,46-60,Discounted,Returning
+265,58,Male,Sports,Dumbbells,246.24,Winter,Card,3.5,12.00,6,216.69,46-60,Discounted,Returning
+266,65,Female,Beauty,"Makeup Set",135.46,Autumn,Card,4.3,24.00,7,102.95,60+,Discounted,Returning
+267,31,Male,Footwear,Sneakers,220.18,Spring,Card,3.4,6.00,3,206.97,26-35,Discounted,Returning
+268,67,Male,"Mens Clothing",Jacket,159.94,Winter,Card,4.5,10.00,5,143.95,60+,Discounted,Returning
+269,29,Male,Electronics,Laptop,2391.83,Winter,Card,3.4,14.00,7,2056.97,26-35,Discounted,Returning
+270,31,Female,Beauty,"Makeup Set",112.96,Autumn,Card,5.0,13.00,4,98.28,26-35,Discounted,Returning
+271,42,Male,Groceries,Snacks,56.82,Spring,Card,5.0,17.00,6,47.16,36-45,Discounted,Returning
+272,33,Female,Groceries,Snacks,17.86,Autumn,"Cash on Delivery",3.7,30.00,10,12.50,26-35,Discounted,Returning
+273,59,Male,Groceries,Beverages,22.31,Spring,Card,3.9,28.00,9,16.06,46-60,Discounted,Returning
+274,36,Male,Electronics,"Smart Watch",2851.93,Autumn,Card,3.4,8.00,4,2623.78,36-45,Discounted,Returning
+275,61,Female,"Womens Clothing",Skirt,164.20,Autumn,Card,3.6,11.00,3,146.14,60+,Discounted,Returning
+276,22,Male,Sports,Dumbbells,204.62,Autumn,Card,3.3,16.00,3,171.88,18-25,Discounted,Returning
+277,68,Female,Footwear,Sneakers,75.72,Spring,"Cash on Delivery",4.3,20.00,5,60.58,60+,Discounted,Returning
+278,24,Female,Footwear,"Formal Shoes",105.45,Summer,Card,2.3,5.00,0,100.18,18-25,Discounted,New
+279,36,Male,Footwear,"Formal Shoes",212.70,Autumn,Card,4.0,18.00,4,174.41,36-45,Discounted,Returning
+280,28,Female,Accessories,Handbag,98.30,Autumn,Card,3.3,24.00,7,74.71,26-35,Discounted,Returning
+281,59,Male,Electronics,Laptop,1775.37,Winter,Card,3.2,16.00,8,1491.31,46-60,Discounted,Returning
+282,53,Female,Beauty,"Makeup Set",146.09,Summer,Card,3.2,10.00,5,131.48,46-60,Discounted,Returning
+283,50,Male,"Mens Clothing",T-Shirt,144.37,Winter,Card,4.6,8.00,4,132.82,46-60,Discounted,Returning
+284,39,Female,"Womens Clothing",Jeans,107.92,Autumn,Card,4.9,13.00,4,93.89,36-45,Discounted,Returning
+285,27,Male,Footwear,Sneakers,138.29,Summer,Card,3.6,14.00,7,118.93,26-35,Discounted,Returning
+286,40,Female,Accessories,Handbag,101.69,Winter,Card,5.0,10.00,5,91.52,36-45,Discounted,Returning
+287,28,Female,Footwear,Sandals,198.28,Autumn,Card,3.6,20.00,5,158.62,26-35,Discounted,Returning
+288,61,Female,Sports,Dumbbells,171.59,Winter,Card,3.0,16.00,8,144.14,60+,Discounted,Returning
+289,54,Male,Electronics,Laptop,2903.73,Spring,Card,3.7,30.00,10,2032.61,46-60,Discounted,Returning
+290,51,Male,Footwear,"Formal Shoes",206.84,Summer,Card,2.2,8.00,4,190.29,46-60,Discounted,Returning
+291,31,Female,"Womens Clothing",Jeans,63.74,Autumn,"Cash on Delivery",3.7,8.00,4,58.64,26-35,Discounted,Returning
+292,61,Male,Sports,"Yoga Mat",64.87,Summer,"Cash on Delivery",1.8,22.00,6,50.60,60+,Discounted,Returning
+293,50,Female,Accessories,Sunglasses,67.82,Spring,Card,2.5,14.00,7,58.33,46-60,Discounted,Returning
+294,65,Female,Beauty,"Skincare Kit",95.87,Autumn,Card,4.0,14.00,2,82.45,60+,Discounted,Returning
+295,46,Female,Sports,"Yoga Mat",142.71,Spring,Card,3.2,10.00,5,128.44,46-60,Discounted,Returning
+296,48,Male,Home,Lamp,218.92,Winter,Card,3.7,21.00,8,172.95,46-60,Discounted,Returning
+297,58,Male,Sports,Dumbbells,57.47,Winter,Card,2.5,2.00,1,56.32,46-60,Discounted,Returning
+298,20,Male,"Mens Clothing",Jeans,170.00,Spring,Card,3.6,12.00,6,149.60,18-25,Discounted,Returning
+299,36,Female,"Womens Clothing",Skirt,67.61,Spring,"Cash on Delivery",3.8,19.00,7,54.76,36-45,Discounted,Returning
+300,66,Male,"Mens Clothing",Jeans,141.21,Summer,Card,3.4,22.00,6,110.14,60+,Discounted,Returning
+301,66,Female,Accessories,Sunglasses,57.04,Autumn,"Cash on Delivery",3.5,18.00,4,46.77,60+,Discounted,Returning
+302,32,Female,"Womens Clothing",Dress,41.92,Autumn,"Cash on Delivery",3.5,8.00,4,38.57,26-35,Discounted,Returning
+303,51,Male,Footwear,"Formal Shoes",106.72,Autumn,Card,2.8,18.00,4,87.51,46-60,Discounted,Returning
+304,54,Female,"Womens Clothing",Top,145.16,Summer,Card,3.1,14.00,7,124.84,46-60,Discounted,Returning
+305,25,Female,Accessories,Wallet,102.26,Autumn,Card,4.2,16.00,3,85.90,18-25,Discounted,Returning
+306,23,Male,Electronics,Headphones,1364.52,Spring,Card,4.6,24.00,7,1037.04,18-25,Discounted,Returning
+307,52,Female,Groceries,"Rice Pack",18.59,Spring,"Cash on Delivery",2.5,10.00,5,16.73,46-60,Discounted,Returning
+308,61,Male,"Mens Clothing",Jacket,166.84,Summer,Card,5.0,9.00,2,151.82,60+,Discounted,Returning
+309,30,Male,"Mens Clothing",Shirt,81.78,Summer,Card,2.4,11.00,3,72.78,26-35,Discounted,Returning
+310,45,Female,Sports,Dumbbells,80.77,Summer,Card,4.6,11.00,3,71.89,36-45,Discounted,Returning
+311,46,Male,Footwear,Sandals,118.69,Summer,Card,2.7,10.00,5,106.82,46-60,Discounted,Returning
+312,35,Female,Beauty,"Skincare Kit",77.47,Summer,Card,4.3,8.00,4,71.27,26-35,Discounted,Returning
+313,48,Female,Accessories,Wallet,85.35,Spring,Card,4.3,4.00,2,81.94,46-60,Discounted,Returning
+314,48,Female,Footwear,Sandals,102.43,Spring,Card,3.6,24.00,7,77.85,46-60,Discounted,Returning
+315,30,Male,Groceries,Beverages,11.09,Autumn,"Cash on Delivery",2.8,23.00,9,8.54,26-35,Discounted,Returning
+316,43,Male,Sports,"Yoga Mat",30.29,Summer,"Cash on Delivery",2.4,16.00,3,25.44,36-45,Discounted,Returning
+317,69,Female,Groceries,Snacks,79.40,Winter,Card,3.4,15.00,5,67.49,60+,Discounted,Returning
+318,22,Female,Sports,Football,237.38,Spring,Card,3.4,7.00,1,220.76,18-25,Discounted,Returning
+319,39,Female,Groceries,"Cooking Oil",56.93,Summer,Card,4.4,8.00,4,52.38,36-45,Discounted,Returning
+320,60,Female,"Womens Clothing",Dress,187.91,Spring,Card,3.8,4.00,2,180.39,46-60,Discounted,Returning
+321,67,Female,"Womens Clothing",Dress,144.38,Spring,Card,3.4,24.00,7,109.73,60+,Discounted,Returning
+322,56,Female,Home,Curtains,139.78,Spring,Card,3.9,19.00,7,113.22,46-60,Discounted,Returning
+323,22,Male,Sports,Dumbbells,232.96,Summer,Card,4.1,6.00,3,218.98,18-25,Discounted,Returning
+324,65,Female,Beauty,"Skincare Kit",79.89,Autumn,Card,5.0,24.00,7,60.72,60+,Discounted,Returning
+325,38,Female,Sports,Football,240.47,Autumn,Card,3.4,8.00,4,221.23,36-45,Discounted,Returning
+326,42,Female,Sports,"Yoga Mat",124.92,Autumn,Card,2.2,21.00,8,98.69,36-45,Discounted,Returning
+327,48,Female,Sports,Dumbbells,174.99,Winter,Card,4.4,18.00,4,143.49,46-60,Discounted,Returning
+328,32,Female,Footwear,Sandals,169.59,Summer,Card,4.8,13.00,4,147.54,26-35,Discounted,Returning
+329,62,Male,Sports,Dumbbells,212.29,Spring,Card,5.0,11.00,3,188.94,60+,Discounted,Returning
+330,57,Male,Electronics,Headphones,2524.81,Autumn,Card,3.8,17.00,6,2095.59,46-60,Discounted,Returning
+331,62,Male,"Mens Clothing",Shirt,83.68,Spring,"Cash on Delivery",2.9,10.00,5,75.31,60+,Discounted,Returning
+332,60,Male,"Mens Clothing",T-Shirt,128.55,Spring,Card,4.6,18.00,4,105.41,46-60,Discounted,Returning
+333,47,Male,Home,Curtains,284.08,Autumn,Card,3.3,16.00,3,238.63,46-60,Discounted,Returning
+334,57,Female,"Womens Clothing",Skirt,140.29,Autumn,Card,5.0,12.00,6,123.46,46-60,Discounted,Returning
+335,53,Female,Accessories,Wallet,29.37,Autumn,"Cash on Delivery",3.2,24.00,7,22.32,46-60,Discounted,Returning
+336,48,Female,Accessories,Sunglasses,79.45,Spring,Card,4.0,15.00,5,67.53,46-60,Discounted,Returning
+337,63,Female,"Womens Clothing",Top,77.10,Winter,"Cash on Delivery",2.1,17.00,6,63.99,60+,Discounted,Returning
+338,49,Male,"Mens Clothing",Shirt,163.61,Winter,Card,2.9,6.00,3,153.79,46-60,Discounted,Returning
+339,62,Female,"Womens Clothing",Jeans,34.10,Autumn,Card,2.8,9.00,2,31.03,60+,Discounted,Returning
+340,50,Female,Accessories,Wallet,62.32,Winter,Card,3.5,18.00,4,51.10,46-60,Discounted,Returning
+341,35,Male,Sports,Dumbbells,165.77,Summer,Card,3.3,14.00,2,142.56,26-35,Discounted,Returning
+342,29,Male,Footwear,Sandals,132.79,Summer,Card,4.4,14.00,2,114.20,26-35,Discounted,Returning
+343,25,Female,Beauty,"Skincare Kit",82.83,Autumn,Card,4.4,8.00,4,76.20,18-25,Discounted,Returning
+344,28,Female,Beauty,"Skincare Kit",139.28,Autumn,Card,5.0,21.00,8,110.03,26-35,Discounted,Returning
+345,44,Male,"Mens Clothing",T-Shirt,145.69,Spring,Card,3.4,6.00,3,136.95,36-45,Discounted,Returning
+346,47,Female,Accessories,Handbag,28.87,Autumn,"Cash on Delivery",3.0,10.00,5,25.98,46-60,Discounted,Returning
+347,22,Female,Footwear,Sandals,122.56,Winter,Card,4.1,14.00,2,105.40,18-25,Discounted,Returning
+348,69,Male,Footwear,Sneakers,98.93,Summer,Card,3.0,24.00,7,75.19,60+,Discounted,Returning
+349,41,Male,Sports,"Yoga Mat",207.36,Spring,Card,3.9,13.00,4,180.40,36-45,Discounted,Returning
+350,54,Female,Beauty,"Makeup Set",87.55,Spring,Card,3.6,18.00,4,71.79,46-60,Discounted,Returning
+351,40,Female,Beauty,"Skincare Kit",47.08,Winter,Card,3.0,12.00,6,41.43,36-45,Discounted,Returning
+352,63,Female,Sports,Dumbbells,104.84,Spring,Card,4.3,18.00,9,85.97,60+,Discounted,Returning
+353,47,Male,"Mens Clothing",Shirt,84.24,Autumn,"Cash on Delivery",3.1,13.00,4,73.29,46-60,Discounted,Returning
+354,68,Female,Beauty,Perfume,136.55,Summer,Card,3.6,7.00,1,126.99,60+,Discounted,Returning
+355,53,Male,Electronics,Headphones,2520.99,Winter,Card,3.1,18.00,4,2067.21,46-60,Discounted,Returning
+356,25,Male,Sports,Football,43.35,Summer,Card,2.2,6.00,3,40.75,18-25,Discounted,Returning
+357,34,Female,Beauty,"Skincare Kit",123.83,Spring,Card,5.0,4.00,2,118.88,26-35,Discounted,Returning
+358,66,Female,Footwear,"Formal Shoes",194.54,Spring,Card,2.6,6.00,3,182.87,60+,Discounted,Returning
+359,30,Male,"Mens Clothing",Shirt,65.61,Summer,Card,3.3,16.00,3,55.11,26-35,Discounted,Returning
+360,59,Female,Accessories,Handbag,68.54,Spring,Card,2.7,21.00,8,54.15,46-60,Discounted,Returning
+361,22,Female,Sports,"Yoga Mat",95.48,Winter,"Cash on Delivery",4.1,9.00,2,86.89,18-25,Discounted,Returning
+362,23,Male,Footwear,Sandals,217.69,Spring,Card,3.4,18.00,4,178.51,18-25,Discounted,Returning
+363,59,Male,Sports,Dumbbells,221.98,Summer,Card,3.0,16.00,8,186.46,46-60,Discounted,Returning
+364,70,Female,Accessories,Sunglasses,157.83,Summer,Card,4.5,24.00,7,119.95,60+,Discounted,Returning
+365,28,Male,Footwear,"Formal Shoes",92.99,Winter,Card,3.8,16.00,3,78.11,26-35,Discounted,Returning
+366,30,Female,"Womens Clothing",Skirt,152.47,Autumn,Card,4.0,24.00,7,115.88,26-35,Discounted,Returning
+367,50,Male,Sports,Dumbbells,162.70,Summer,Card,2.8,11.00,3,144.80,46-60,Discounted,Returning
+368,66,Male,Sports,Football,56.33,Spring,"Cash on Delivery",4.1,2.00,1,55.20,60+,Discounted,Returning
+369,34,Female,Beauty,"Makeup Set",41.77,Winter,"Cash on Delivery",3.5,4.00,2,40.10,26-35,Discounted,Returning
+370,49,Male,Electronics,Laptop,2544.06,Summer,Card,3.6,10.00,5,2289.65,46-60,Discounted,Returning
+371,53,Female,Accessories,Handbag,89.64,Spring,"Cash on Delivery",4.1,6.00,3,84.26,46-60,Discounted,Returning
+372,53,Male,Footwear,"Formal Shoes",224.00,Autumn,Card,5.0,20.00,5,179.20,46-60,Discounted,Returning
+373,52,Female,Accessories,Wallet,37.28,Winter,Card,3.3,13.00,4,32.43,46-60,Discounted,Returning
+374,61,Male,Footwear,"Formal Shoes",42.08,Spring,"Cash on Delivery",2.5,20.00,10,33.66,60+,Discounted,Returning
+375,28,Male,"Mens Clothing",Jacket,50.72,Summer,"Cash on Delivery",2.6,4.00,2,48.69,26-35,Discounted,Returning
+376,54,Female,"Womens Clothing",Skirt,183.90,Spring,Card,4.0,18.00,4,150.80,46-60,Discounted,Returning
+377,36,Female,Beauty,Perfume,121.81,Winter,Card,3.8,16.00,3,102.32,36-45,Discounted,Returning
+378,35,Female,"Womens Clothing",Jeans,66.09,Summer,Card,2.9,16.00,3,55.52,26-35,Discounted,Returning
+379,63,Male,Footwear,"Formal Shoes",119.18,Spring,Card,4.5,8.00,4,109.65,60+,Discounted,Returning
+380,51,Male,"Mens Clothing",Jacket,123.00,Winter,Card,3.6,11.00,3,109.47,46-60,Discounted,Returning
+381,26,Male,"Mens Clothing",Shirt,37.33,Spring,Card,3.6,20.00,5,29.86,26-35,Discounted,Returning
+382,54,Male,Electronics,"Mobile Phone",1625.71,Spring,Card,5.0,26.00,13,1203.03,46-60,Discounted,Returning
+383,70,Male,Footwear,Sneakers,150.48,Spring,Card,4.6,12.00,6,132.42,60+,Discounted,Returning
+384,45,Male,Electronics,Laptop,1400.99,Winter,Card,2.8,6.00,3,1316.93,36-45,Discounted,Returning
+385,43,Male,Sports,Football,80.25,Winter,Card,3.9,17.00,6,66.61,36-45,Discounted,Returning
+386,37,Female,Groceries,"Rice Pack",29.59,Summer,Card,4.7,24.00,7,22.49,36-45,Discounted,Returning
+387,47,Male,"Mens Clothing",T-Shirt,112.86,Winter,Card,4.6,14.00,7,97.06,46-60,Discounted,Returning
+388,45,Male,Sports,Football,160.31,Winter,Card,3.0,6.00,3,150.69,36-45,Discounted,Returning
+389,44,Female,Home,Lamp,155.34,Winter,Card,4.5,13.00,4,135.15,36-45,Discounted,Returning
+390,39,Male,Groceries,"Cooking Oil",76.79,Winter,"Cash on Delivery",3.3,19.00,7,62.20,36-45,Discounted,Returning
+391,42,Male,Electronics,"Mobile Phone",845.92,Autumn,Card,2.9,25.00,10,634.44,36-45,Discounted,Returning
+392,26,Female,"Womens Clothing",Jeans,177.84,Winter,Card,4.5,13.00,4,154.72,26-35,Discounted,Returning
+393,42,Male,Footwear,Sandals,81.26,Summer,Card,4.1,14.00,2,69.88,36-45,Discounted,Returning
+394,33,Male,Sports,"Yoga Mat",143.71,Summer,Card,3.9,11.00,3,127.90,26-35,Discounted,Returning
+395,70,Male,Sports,"Yoga Mat",62.41,Summer,"Cash on Delivery",3.7,28.00,9,44.94,60+,Discounted,Returning
+396,55,Female,Footwear,Sneakers,120.97,Summer,Card,2.9,20.00,5,96.78,46-60,Discounted,Returning
+397,28,Male,"Mens Clothing",Jeans,176.62,Spring,Card,3.7,16.00,3,148.36,26-35,Discounted,Returning
+398,27,Male,Electronics,Laptop,1091.52,Summer,Card,4.9,11.00,3,971.45,26-35,Discounted,Returning
+399,29,Female,"Womens Clothing",Jeans,196.80,Summer,Card,3.7,26.00,8,145.63,26-35,Discounted,Returning
+400,70,Female,"Womens Clothing",Top,89.53,Spring,"Cash on Delivery",3.8,16.00,8,75.21,60+,Discounted,Returning
+401,38,Female,Accessories,Wallet,141.24,Spring,Card,3.9,11.00,3,125.70,36-45,Discounted,Returning
+402,32,Male,"Mens Clothing",T-Shirt,125.07,Winter,Card,4.2,9.00,2,113.81,26-35,Discounted,Returning
+403,56,Female,Accessories,Handbag,83.05,Autumn,"Cash on Delivery",4.1,18.00,4,68.10,46-60,Discounted,Returning
+404,32,Male,Home,"Kitchen Set",84.48,Winter,Card,4.5,19.00,7,68.43,26-35,Discounted,Returning
+405,42,Male,Electronics,Laptop,1607.07,Autumn,Card,4.0,21.00,8,1269.59,36-45,Discounted,Returning
+406,28,Female,Footwear,"Formal Shoes",170.45,Spring,Card,3.8,13.00,4,148.29,26-35,Discounted,Returning
+407,30,Female,Beauty,"Skincare Kit",47.97,Spring,Card,3.7,18.00,4,39.34,26-35,Discounted,Returning
+408,31,Female,"Womens Clothing",Jeans,152.00,Spring,Card,3.5,24.00,7,115.52,26-35,Discounted,Returning
+409,60,Female,Beauty,Perfume,77.79,Autumn,Card,4.7,11.00,3,69.23,46-60,Discounted,Returning
+410,46,Female,"Womens Clothing",Top,55.80,Summer,"Cash on Delivery",3.1,22.00,6,43.52,46-60,Discounted,Returning
+411,66,Male,Sports,Dumbbells,140.76,Winter,Card,3.7,26.00,8,104.16,60+,Discounted,Returning
+412,69,Male,Sports,Dumbbells,31.84,Autumn,"Cash on Delivery",4.0,18.00,4,26.11,60+,Discounted,Returning
+413,56,Male,"Mens Clothing",Shirt,175.84,Autumn,Card,2.7,16.00,3,147.71,46-60,Discounted,Returning
+414,23,Male,Electronics,Headphones,2970.31,Autumn,Card,3.6,12.00,6,2613.87,18-25,Discounted,Returning
+415,68,Male,"Mens Clothing",Shirt,43.47,Summer,"Cash on Delivery",5.0,7.00,1,40.43,60+,Discounted,Returning
+416,38,Female,Beauty,"Makeup Set",99.24,Autumn,Card,3.5,23.00,9,76.41,36-45,Discounted,Returning
+417,39,Female,Footwear,Sneakers,69.99,Summer,Card,3.0,10.00,5,62.99,36-45,Discounted,Returning
+418,64,Female,Groceries,"Cooking Oil",27.74,Summer,Card,2.3,15.00,5,23.58,60+,Discounted,Returning
+419,26,Female,Home,"Kitchen Set",175.14,Winter,Card,4.5,12.00,1,154.12,26-35,Discounted,Returning
+420,58,Female,Accessories,Sunglasses,105.33,Autumn,Card,4.5,22.00,6,82.16,46-60,Discounted,Returning
+421,33,Male,Electronics,Headphones,2028.35,Winter,Card,3.6,8.00,4,1866.08,26-35,Discounted,Returning
+422,54,Female,Beauty,"Skincare Kit",44.38,Spring,"Cash on Delivery",4.9,16.00,3,37.28,46-60,Discounted,Returning
+423,37,Female,Accessories,Wallet,124.70,Spring,Card,4.6,22.00,6,97.27,36-45,Discounted,Returning
+424,27,Male,"Mens Clothing",Shirt,117.37,Summer,Card,3.7,20.00,5,93.90,26-35,Discounted,Returning
+425,67,Female,Accessories,Sunglasses,81.81,Spring,"Cash on Delivery",3.8,13.00,4,71.17,60+,Discounted,Returning
+426,34,Female,Beauty,Perfume,108.57,Winter,Card,4.9,13.00,4,94.46,26-35,Discounted,Returning
+427,70,Female,Accessories,Wallet,150.37,Autumn,Card,4.5,10.00,5,135.33,60+,Discounted,Returning
+428,21,Female,Groceries,Beverages,21.02,Autumn,Card,2.7,14.00,7,18.08,18-25,Discounted,Returning
+429,67,Female,Footwear,Sneakers,203.32,Summer,Card,3.3,10.00,5,182.99,60+,Discounted,Returning
+430,45,Female,Accessories,Sunglasses,67.03,Autumn,"Cash on Delivery",3.6,21.00,8,52.95,36-45,Discounted,Returning
+431,64,Male,Electronics,"Mobile Phone",1948.28,Summer,Card,4.2,20.00,5,1558.62,60+,Discounted,Returning
+432,51,Female,"Womens Clothing",Jeans,108.88,Autumn,Card,3.7,15.00,5,92.55,46-60,Discounted,Returning
+433,41,Female,Groceries,"Rice Pack",42.47,Summer,"Cash on Delivery",2.5,10.00,5,38.22,36-45,Discounted,Returning
+434,61,Male,"Mens Clothing",Jacket,57.77,Summer,Card,3.5,18.00,4,47.37,60+,Discounted,Returning
+435,47,Male,Groceries,Snacks,28.68,Summer,"Cash on Delivery",3.8,15.00,5,24.38,46-60,Discounted,Returning
+436,38,Male,"Mens Clothing",Shirt,59.00,Summer,Card,4.1,12.00,6,51.92,36-45,Discounted,Returning
+437,50,Female,Accessories,Sunglasses,128.95,Autumn,Card,4.3,19.00,7,104.45,46-60,Discounted,Returning
+438,29,Male,"Mens Clothing",T-Shirt,163.33,Autumn,Card,4.7,27.00,11,119.23,26-35,Discounted,Returning
+439,24,Female,Footwear,Sneakers,42.50,Summer,Card,3.6,18.00,9,34.85,18-25,Discounted,Returning
+440,57,Male,"Mens Clothing",Jacket,34.25,Summer,"Cash on Delivery",4.3,20.00,10,27.40,46-60,Discounted,Returning
+441,42,Male,Sports,"Yoga Mat",36.03,Summer,"Cash on Delivery",4.4,22.00,6,28.10,36-45,Discounted,Returning
+442,48,Male,"Mens Clothing",T-Shirt,78.25,Winter,"Cash on Delivery",3.3,10.00,5,70.43,46-60,Discounted,Returning
+443,22,Female,"Womens Clothing",Dress,162.85,Winter,Card,3.7,10.00,5,146.57,18-25,Discounted,Returning
+444,64,Female,Accessories,Wallet,143.93,Winter,Card,3.3,4.00,2,138.17,60+,Discounted,Returning
+445,43,Male,Sports,Dumbbells,170.33,Autumn,Card,3.8,20.00,5,136.26,36-45,Discounted,Returning
+446,26,Male,Electronics,"Smart Watch",2141.41,Spring,Card,4.8,19.00,7,1734.54,26-35,Discounted,Returning
+447,55,Male,Sports,"Yoga Mat",140.48,Autumn,Card,2.8,12.00,6,123.62,46-60,Discounted,Returning
+448,63,Male,Groceries,"Cooking Oil",17.91,Autumn,"Cash on Delivery",3.3,13.00,4,15.58,60+,Discounted,Returning
+449,65,Female,Accessories,Wallet,129.87,Summer,Card,2.5,10.00,5,116.88,60+,Discounted,Returning
+450,24,Male,Home,"Kitchen Set",77.19,Winter,Card,2.3,8.00,4,71.01,18-25,Discounted,Returning
+451,69,Female,"Womens Clothing",Jeans,164.53,Spring,Card,3.7,19.00,7,133.27,60+,Discounted,Returning
+452,67,Male,Electronics,"Smart Watch",1534.27,Summer,Card,4.0,8.00,4,1411.53,60+,Discounted,Returning
+453,64,Male,Groceries,"Cooking Oil",44.13,Summer,Card,3.8,13.00,4,38.39,60+,Discounted,Returning
+454,32,Male,Footwear,Sandals,99.11,Summer,"Cash on Delivery",3.8,12.00,1,87.22,26-35,Discounted,Returning
+455,21,Female,"Womens Clothing",Dress,105.80,Summer,Card,2.6,15.00,5,89.93,18-25,Discounted,Returning
+456,45,Male,Electronics,"Mobile Phone",2490.98,Autumn,Card,4.3,17.00,6,2067.51,36-45,Discounted,Returning
+457,41,Male,"Mens Clothing",Jacket,155.13,Autumn,Card,3.2,24.00,7,117.90,36-45,Discounted,Returning
+458,69,Female,Footwear,Sneakers,70.56,Winter,"Cash on Delivery",5.0,15.00,5,59.98,60+,Discounted,Returning
+459,24,Male,"Mens Clothing",Jacket,177.39,Winter,Card,1.9,20.00,5,141.91,18-25,Discounted,Returning
+460,57,Female,"Womens Clothing",Top,106.69,Spring,Card,4.1,15.00,5,90.69,46-60,Discounted,Returning
+461,41,Female,Accessories,Sunglasses,121.93,Spring,Card,3.5,20.00,5,97.54,36-45,Discounted,Returning
+462,44,Male,"Mens Clothing",Jeans,51.29,Summer,Card,3.3,6.00,3,48.21,36-45,Discounted,Returning
+463,37,Male,Sports,Football,242.01,Autumn,Card,2.8,6.00,3,227.49,36-45,Discounted,Returning
+464,43,Male,Footwear,Sandals,208.11,Summer,Card,3.1,6.00,3,195.62,36-45,Discounted,Returning
+465,35,Female,Sports,"Yoga Mat",85.49,Spring,Card,2.7,12.00,6,75.23,26-35,Discounted,Returning
+466,42,Male,Electronics,Headphones,2867.88,Spring,Card,4.6,21.00,8,2265.63,36-45,Discounted,Returning
+467,42,Female,Groceries,Snacks,18.72,Spring,Card,3.8,14.00,7,16.10,36-45,Discounted,Returning
+468,58,Male,Electronics,"Smart Watch",1855.04,Spring,Card,3.6,13.00,4,1613.88,46-60,Discounted,Returning
+469,60,Male,Electronics,Headphones,2649.85,Summer,Card,2.8,13.00,4,2305.37,46-60,Discounted,Returning
+470,22,Female,Accessories,Handbag,92.79,Spring,Card,4.2,8.00,4,85.37,18-25,Discounted,Returning
+471,58,Male,Home,"Kitchen Set",150.83,Spring,Card,2.6,7.00,1,140.27,46-60,Discounted,Returning
+472,34,Female,Groceries,"Cooking Oil",29.00,Summer,"Cash on Delivery",4.8,18.00,4,23.78,26-35,Discounted,Returning
+473,45,Female,Beauty,"Makeup Set",95.57,Winter,Card,2.1,11.00,3,85.06,36-45,Discounted,Returning
+474,58,Female,Accessories,Wallet,155.49,Spring,Card,4.3,12.00,6,136.83,46-60,Discounted,Returning
+475,39,Male,Home,Lamp,58.69,Summer,"Cash on Delivery",3.3,17.00,6,48.71,36-45,Discounted,Returning
+476,55,Female,Beauty,"Makeup Set",79.51,Spring,"Cash on Delivery",2.4,16.00,3,66.79,46-60,Discounted,Returning
+477,58,Male,Electronics,"Mobile Phone",2792.69,Autumn,Card,3.7,14.00,7,2401.71,46-60,Discounted,Returning
+478,55,Female,Groceries,Snacks,78.24,Summer,"Cash on Delivery",3.8,19.00,7,63.37,46-60,Discounted,Returning
+479,49,Male,Sports,Dumbbells,213.36,Spring,Card,3.2,12.00,6,187.76,46-60,Discounted,Returning
+480,39,Male,"Mens Clothing",Jeans,49.04,Spring,"Cash on Delivery",3.9,19.00,7,39.72,36-45,Discounted,Returning
+481,54,Male,Footwear,Sandals,50.57,Autumn,"Cash on Delivery",3.5,4.00,2,48.55,46-60,Discounted,Returning
+482,51,Female,Beauty,"Makeup Set",78.51,Summer,Card,5.0,10.00,5,70.66,46-60,Discounted,Returning
+483,53,Female,Accessories,Handbag,73.07,Spring,Card,3.3,15.00,5,62.11,46-60,Discounted,Returning
+484,43,Male,Home,Curtains,299.96,Spring,Card,3.4,5.00,0,284.96,36-45,Discounted,New
+485,43,Male,Sports,Football,239.89,Summer,Card,3.7,2.00,1,235.09,36-45,Discounted,Returning
+486,48,Female,"Womens Clothing",Top,98.38,Winter,"Cash on Delivery",4.2,14.00,2,84.61,46-60,Discounted,Returning
+487,52,Male,Sports,Dumbbells,152.29,Spring,Card,3.2,14.00,2,130.97,46-60,Discounted,Returning
+488,69,Female,"Womens Clothing",Jeans,96.34,Winter,Card,3.8,26.00,8,71.29,60+,Discounted,Returning
+489,26,Female,Accessories,Wallet,100.05,Summer,Card,3.7,11.00,3,89.04,26-35,Discounted,Returning
+490,34,Female,"Womens Clothing",Skirt,96.07,Spring,Card,3.1,12.00,6,84.54,26-35,Discounted,Returning
+491,30,Female,"Womens Clothing",Top,46.55,Summer,Card,4.1,8.00,4,42.83,26-35,Discounted,Returning
+492,25,Female,Beauty,Perfume,86.16,Autumn,"Cash on Delivery",4.5,6.00,3,80.99,18-25,Discounted,Returning
+493,61,Female,Accessories,Sunglasses,174.31,Spring,Card,5.0,24.00,7,132.48,60+,Discounted,Returning
+494,27,Female,Footwear,"Formal Shoes",150.45,Spring,Card,3.7,14.00,7,129.39,26-35,Discounted,Returning
+495,40,Male,Sports,Football,106.00,Winter,Card,3.4,18.00,4,86.92,36-45,Discounted,Returning
+496,44,Male,Sports,Dumbbells,119.84,Autumn,Card,3.6,9.00,2,109.05,36-45,Discounted,Returning
+497,49,Female,Beauty,Perfume,102.61,Autumn,Card,4.6,26.00,8,75.93,46-60,Discounted,Returning
+498,45,Female,"Womens Clothing",Dress,82.90,Spring,"Cash on Delivery",3.9,16.00,8,69.64,36-45,Discounted,Returning
+499,31,Male,Sports,"Yoga Mat",72.10,Spring,Card,4.3,12.00,6,63.45,26-35,Discounted,Returning
+500,51,Male,Footwear,Sneakers,214.97,Autumn,Card,4.1,22.00,6,167.68,46-60,Discounted,Returning
+501,27,Male,Electronics,Laptop,1871.95,Spring,Card,4.3,15.00,5,1591.16,26-35,Discounted,Returning
+502,50,Female,Accessories,Handbag,40.10,Autumn,"Cash on Delivery",3.9,19.00,7,32.48,46-60,Discounted,Returning
+503,24,Female,Beauty,"Makeup Set",96.80,Spring,Card,4.6,21.00,8,76.47,18-25,Discounted,Returning
+504,59,Male,Home,Curtains,43.39,Autumn,"Cash on Delivery",5.0,12.00,1,38.18,46-60,Discounted,Returning
+505,26,Female,Accessories,Sunglasses,26.57,Summer,"Cash on Delivery",4.4,22.00,6,20.72,26-35,Discounted,Returning
+506,57,Female,"Womens Clothing",Skirt,187.19,Summer,Card,4.7,16.00,3,157.24,46-60,Discounted,Returning
+507,37,Male,Footwear,Sandals,80.92,Autumn,"Cash on Delivery",3.0,14.00,7,69.59,36-45,Discounted,Returning
+508,44,Male,Electronics,Laptop,1002.94,Summer,Card,2.3,14.00,2,862.53,36-45,Discounted,Returning
+509,23,Female,Beauty,Perfume,65.35,Summer,Card,2.7,16.00,3,54.89,18-25,Discounted,Returning
+510,21,Male,Footwear,"Formal Shoes",87.39,Autumn,Card,3.7,6.00,3,82.15,18-25,Discounted,Returning
+511,38,Male,Electronics,Laptop,1886.55,Summer,Card,3.8,16.00,3,1584.70,36-45,Discounted,Returning
+512,58,Female,"Womens Clothing",Top,166.84,Spring,Card,4.6,18.00,4,136.81,46-60,Discounted,Returning
+513,37,Female,Beauty,"Skincare Kit",87.84,Spring,Card,4.1,7.00,1,81.69,36-45,Discounted,Returning
+514,44,Female,Beauty,"Makeup Set",110.61,Autumn,Card,3.5,13.00,4,96.23,36-45,Discounted,Returning
+515,55,Male,Home,Lamp,130.03,Winter,Card,3.1,14.00,7,111.83,46-60,Discounted,Returning
+516,33,Female,Accessories,Sunglasses,97.26,Summer,Card,3.1,10.00,5,87.53,26-35,Discounted,Returning
+517,39,Female,Beauty,"Makeup Set",35.18,Autumn,Card,4.1,17.00,6,29.20,36-45,Discounted,Returning
+518,44,Male,Sports,Dumbbells,93.78,Summer,"Cash on Delivery",5.0,17.00,6,77.84,36-45,Discounted,Returning
+519,26,Male,Footwear,Sneakers,235.26,Summer,Card,4.9,13.00,4,204.68,26-35,Discounted,Returning
+520,62,Male,Sports,Dumbbells,136.94,Autumn,Card,3.6,15.00,5,116.40,60+,Discounted,Returning
+521,60,Female,Footwear,"Formal Shoes",149.45,Winter,Card,3.3,6.00,3,140.48,46-60,Discounted,Returning
+522,42,Male,Footwear,"Formal Shoes",122.86,Summer,Card,4.7,18.00,4,100.75,36-45,Discounted,Returning
+523,32,Female,Footwear,"Formal Shoes",156.61,Summer,Card,4.7,22.00,6,122.16,26-35,Discounted,Returning
+524,29,Male,Sports,Dumbbells,88.80,Autumn,Card,3.1,22.00,6,69.26,26-35,Discounted,Returning
+525,46,Male,"Mens Clothing",Shirt,165.74,Autumn,Card,4.2,6.00,3,155.80,46-60,Discounted,Returning
+526,61,Male,Home,"Kitchen Set",220.45,Spring,Card,3.2,17.00,6,182.97,60+,Discounted,Returning
+527,27,Male,"Mens Clothing",Jeans,110.60,Autumn,Card,3.6,10.00,0,99.54,26-35,Discounted,New
+528,56,Female,Beauty,"Makeup Set",135.51,Summer,Card,4.4,26.00,8,100.28,46-60,Discounted,Returning
+529,54,Male,"Mens Clothing",Jeans,118.11,Spring,Card,3.2,13.00,4,102.76,46-60,Discounted,Returning
+530,56,Male,"Mens Clothing",Shirt,125.17,Autumn,Card,3.6,22.00,6,97.63,46-60,Discounted,Returning
+531,57,Female,Sports,"Yoga Mat",157.33,Summer,Card,3.9,13.00,4,136.88,46-60,Discounted,Returning
+532,29,Female,Groceries,"Rice Pack",56.63,Spring,Card,4.5,13.00,4,49.27,26-35,Discounted,Returning
+533,30,Female,Accessories,Handbag,89.32,Winter,"Cash on Delivery",4.5,12.00,6,78.60,26-35,Discounted,Returning
+534,20,Female,"Womens Clothing",Dress,131.59,Autumn,Card,4.2,17.00,6,109.22,18-25,Discounted,Returning
+535,31,Male,Sports,"Yoga Mat",45.03,Spring,"Cash on Delivery",4.9,12.00,6,39.63,26-35,Discounted,Returning
+536,49,Male,Footwear,"Formal Shoes",105.07,Summer,Card,4.2,14.00,7,90.36,46-60,Discounted,Returning
+537,35,Female,Accessories,Sunglasses,31.51,Summer,Card,3.2,15.00,5,26.78,26-35,Discounted,Returning
+538,60,Male,Sports,"Yoga Mat",98.94,Spring,Card,3.4,10.00,5,89.05,46-60,Discounted,Returning
+539,23,Male,Footwear,Sandals,236.70,Spring,Card,4.5,17.00,6,196.46,18-25,Discounted,Returning
+540,59,Female,"Womens Clothing",Top,111.87,Winter,Card,3.9,21.00,8,88.38,46-60,Discounted,Returning
+541,31,Male,Sports,Football,90.67,Autumn,"Cash on Delivery",5.0,12.00,6,79.79,26-35,Discounted,Returning
+542,28,Male,"Mens Clothing",Jeans,141.19,Winter,Card,4.0,4.00,2,135.54,26-35,Discounted,Returning
+543,32,Female,"Womens Clothing",Top,158.72,Spring,Card,4.9,16.00,3,133.32,26-35,Discounted,Returning
+544,32,Female,Footwear,"Formal Shoes",91.02,Winter,Card,4.1,17.00,6,75.55,26-35,Discounted,Returning
+545,70,Female,Accessories,Sunglasses,159.31,Autumn,Card,4.5,17.00,6,132.23,60+,Discounted,Returning
+546,30,Male,Electronics,"Smart Watch",2428.11,Spring,Card,3.9,4.00,2,2330.99,26-35,Discounted,Returning
+547,28,Female,Beauty,Perfume,25.24,Winter,Card,3.7,21.00,8,19.94,26-35,Discounted,Returning
+548,46,Male,Groceries,"Rice Pack",62.51,Winter,"Cash on Delivery",4.2,11.00,3,55.63,46-60,Discounted,Returning
+549,22,Male,Footwear,"Formal Shoes",80.22,Summer,Card,4.6,8.00,4,73.80,18-25,Discounted,Returning
+550,28,Male,Electronics,Headphones,600.17,Winter,Card,3.8,10.00,5,540.15,26-35,Discounted,Returning
+551,63,Male,"Mens Clothing",Jeans,106.27,Summer,Card,3.5,14.00,7,91.39,60+,Discounted,Returning
+552,27,Male,Footwear,Sandals,141.60,Winter,Card,4.1,19.00,7,114.70,26-35,Discounted,Returning
+553,43,Male,Footwear,"Formal Shoes",90.88,Winter,"Cash on Delivery",3.3,14.00,2,78.16,36-45,Discounted,Returning
+554,20,Female,Footwear,Sneakers,156.91,Summer,Card,4.1,22.00,6,122.39,18-25,Discounted,Returning
+555,41,Male,Sports,Football,232.73,Winter,Card,3.7,15.00,5,197.82,36-45,Discounted,Returning
+556,29,Female,Accessories,Wallet,53.93,Summer,Card,2.5,18.00,4,44.22,26-35,Discounted,Returning
+557,61,Male,Footwear,Sneakers,65.72,Summer,"Cash on Delivery",2.8,8.00,4,60.46,60+,Discounted,Returning
+558,69,Female,"Womens Clothing",Skirt,159.87,Winter,Card,3.6,10.00,0,143.88,60+,Discounted,New
+559,64,Male,Electronics,Laptop,2435.63,Winter,Card,3.3,18.00,4,1997.22,60+,Discounted,Returning
+560,40,Male,Footwear,Sneakers,90.24,Spring,"Cash on Delivery",4.3,17.00,6,74.90,36-45,Discounted,Returning
+561,37,Female,Accessories,Handbag,117.76,Spring,Card,3.5,12.00,6,103.63,36-45,Discounted,Returning
+562,64,Female,"Womens Clothing",Jeans,97.62,Summer,Card,3.8,8.00,4,89.81,60+,Discounted,Returning
+563,66,Female,Beauty,"Makeup Set",98.66,Autumn,Card,2.7,22.00,6,76.95,60+,Discounted,Returning
+564,66,Female,"Womens Clothing",Top,185.56,Spring,Card,3.7,21.00,8,146.59,60+,Discounted,Returning
+565,60,Female,Groceries,"Rice Pack",12.59,Spring,Card,3.4,12.00,1,11.08,46-60,Discounted,Returning
+566,41,Female,Beauty,"Makeup Set",34.30,Autumn,Card,3.3,4.00,2,32.93,36-45,Discounted,Returning
+567,29,Male,Sports,Football,162.96,Summer,Card,3.9,19.00,7,132.00,26-35,Discounted,Returning
+568,45,Male,Electronics,Laptop,2785.85,Spring,Card,3.4,18.00,4,2284.40,36-45,Discounted,Returning
+569,67,Male,Footwear,Sandals,79.99,Spring,Card,3.5,12.00,1,70.39,60+,Discounted,Returning
+570,24,Female,"Womens Clothing",Jeans,33.98,Spring,Card,2.1,15.00,5,28.88,18-25,Discounted,Returning
+571,32,Male,Electronics,Headphones,2562.09,Winter,Card,3.7,14.00,7,2203.40,26-35,Discounted,Returning
+572,69,Female,Beauty,"Makeup Set",55.71,Spring,Card,2.9,15.00,5,47.35,60+,Discounted,Returning
+573,61,Male,Footwear,Sandals,41.13,Summer,"Cash on Delivery",5.0,17.00,6,34.14,60+,Discounted,Returning
+574,46,Female,"Womens Clothing",Skirt,62.15,Summer,"Cash on Delivery",3.8,22.00,6,48.48,46-60,Discounted,Returning
+575,44,Male,Home,Curtains,124.45,Summer,Card,5.0,9.00,2,113.25,36-45,Discounted,Returning
+576,46,Male,Footwear,Sneakers,75.37,Winter,Card,3.7,20.00,10,60.30,46-60,Discounted,Returning
+577,30,Male,Sports,"Yoga Mat",141.81,Winter,Card,4.9,13.00,4,123.37,26-35,Discounted,Returning
+578,38,Male,"Mens Clothing",Jeans,173.03,Autumn,Card,2.6,13.00,4,150.54,36-45,Discounted,Returning
+579,26,Female,Home,Curtains,174.88,Autumn,Card,4.4,14.00,2,150.40,26-35,Discounted,Returning
+580,42,Female,Beauty,Perfume,48.19,Winter,Card,2.7,12.00,6,42.41,36-45,Discounted,Returning
+581,37,Male,Electronics,Laptop,714.78,Winter,Card,4.0,12.00,6,629.01,36-45,Discounted,Returning
+582,54,Female,Sports,Dumbbells,30.19,Autumn,"Cash on Delivery",4.2,13.00,4,26.27,46-60,Discounted,Returning
+583,68,Female,Beauty,"Makeup Set",120.37,Winter,Card,2.9,24.00,7,91.48,60+,Discounted,Returning
+584,38,Female,"Womens Clothing",Dress,185.35,Winter,Card,4.9,12.00,6,163.11,36-45,Discounted,Returning
+585,25,Male,Electronics,"Smart Watch",1495.63,Summer,Card,3.8,14.00,2,1286.24,18-25,Discounted,Returning
+586,42,Male,Electronics,"Mobile Phone",1552.24,Autumn,Card,3.8,17.00,6,1288.36,36-45,Discounted,Returning
+587,26,Male,Sports,Football,175.47,Autumn,Card,3.0,13.00,4,152.66,26-35,Discounted,Returning
+588,45,Male,Sports,Football,136.12,Spring,Card,4.5,23.00,9,104.81,36-45,Discounted,Returning
+589,22,Female,Footwear,Sneakers,174.50,Autumn,Card,3.7,14.00,2,150.07,18-25,Discounted,Returning
+590,40,Male,Home,Lamp,136.29,Winter,Card,2.9,13.00,4,118.57,36-45,Discounted,Returning
+591,44,Female,Footwear,Sandals,62.11,Summer,Card,2.9,19.00,7,50.31,36-45,Discounted,Returning
+592,31,Male,Sports,Football,209.64,Autumn,Card,4.6,11.00,3,186.58,26-35,Discounted,Returning
+593,23,Male,Footwear,Sandals,188.15,Winter,Card,3.5,4.00,2,180.62,18-25,Discounted,Returning
+594,27,Female,Accessories,Handbag,31.87,Winter,"Cash on Delivery",5.0,22.00,6,24.86,26-35,Discounted,Returning
+595,24,Male,"Mens Clothing",Jeans,128.64,Autumn,Card,4.4,22.00,6,100.34,18-25,Discounted,Returning
+596,57,Female,Footwear,Sneakers,107.31,Winter,Card,3.6,16.00,8,90.14,46-60,Discounted,Returning
+597,37,Female,Sports,Football,160.72,Spring,Card,3.8,8.00,4,147.86,36-45,Discounted,Returning
+598,44,Male,"Mens Clothing",Jacket,74.66,Autumn,"Cash on Delivery",3.0,13.00,4,64.95,36-45,Discounted,Returning
+599,69,Male,Footwear,Sneakers,210.50,Winter,Card,3.8,13.00,4,183.14,60+,Discounted,Returning
+600,24,Male,"Mens Clothing",Shirt,35.35,Winter,Card,3.6,21.00,8,27.93,18-25,Discounted,Returning
+601,48,Male,Sports,Dumbbells,63.80,Winter,"Cash on Delivery",4.2,15.00,5,54.23,46-60,Discounted,Returning
+602,50,Male,Footwear,Sandals,66.64,Summer,Card,5.0,15.00,5,56.64,46-60,Discounted,Returning
+603,33,Female,Sports,Dumbbells,26.47,Spring,"Cash on Delivery",2.7,4.00,2,25.41,26-35,Discounted,Returning
+604,67,Male,Footwear,"Formal Shoes",233.68,Autumn,Card,3.3,13.00,4,203.30,60+,Discounted,Returning
+605,48,Female,Sports,Dumbbells,184.20,Spring,Card,4.3,19.00,7,149.20,46-60,Discounted,Returning
+606,43,Female,Footwear,"Formal Shoes",209.23,Winter,Card,3.0,13.00,4,182.03,36-45,Discounted,Returning
+607,55,Male,Sports,Football,225.10,Winter,Card,4.8,12.00,6,198.09,46-60,Discounted,Returning
+608,26,Male,"Mens Clothing",Jacket,172.87,Summer,Card,3.3,17.00,6,143.48,26-35,Discounted,Returning
+609,56,Male,Electronics,Laptop,2831.60,Autumn,Card,4.7,15.00,5,2406.86,46-60,Discounted,Returning
+610,52,Female,Accessories,Handbag,20.11,Spring,Card,5.0,8.00,4,18.50,46-60,Discounted,Returning
+611,32,Male,Groceries,Snacks,58.96,Winter,"Cash on Delivery",4.8,4.00,2,56.60,26-35,Discounted,Returning
+612,44,Female,Accessories,Wallet,170.49,Autumn,Card,2.9,18.00,9,139.80,36-45,Discounted,Returning
+613,44,Female,"Womens Clothing",Skirt,65.05,Summer,"Cash on Delivery",3.4,19.00,7,52.69,36-45,Discounted,Returning
+614,32,Female,"Womens Clothing",Jeans,35.66,Summer,"Cash on Delivery",4.1,17.00,6,29.60,26-35,Discounted,Returning
+615,32,Female,Sports,Dumbbells,37.45,Winter,Card,3.2,2.00,1,36.70,26-35,Discounted,Returning
+616,26,Female,Accessories,Sunglasses,170.43,Spring,Card,3.1,17.00,6,141.46,26-35,Discounted,Returning
+617,30,Female,Footwear,Sandals,61.98,Spring,Card,3.5,10.00,5,55.78,26-35,Discounted,Returning
+618,54,Female,"Womens Clothing",Dress,97.85,Autumn,"Cash on Delivery",3.6,12.00,6,86.11,46-60,Discounted,Returning
+619,44,Male,Footwear,Sandals,180.53,Autumn,Card,3.4,26.00,8,133.59,36-45,Discounted,Returning
+620,70,Male,Electronics,"Mobile Phone",2658.73,Summer,Card,4.3,22.00,6,2073.81,60+,Discounted,Returning
+621,32,Male,Footwear,Sandals,158.28,Autumn,Card,4.1,26.00,8,117.13,26-35,Discounted,Returning
+622,57,Male,Sports,"Yoga Mat",222.98,Winter,Card,3.5,24.00,7,169.46,46-60,Discounted,Returning
+623,49,Male,"Mens Clothing",Shirt,197.05,Winter,Card,4.4,17.00,6,163.55,46-60,Discounted,Returning
+624,48,Male,Sports,"Yoga Mat",97.69,Summer,"Cash on Delivery",3.4,19.00,7,79.13,46-60,Discounted,Returning
+625,35,Male,Electronics,"Mobile Phone",761.20,Summer,Card,5.0,24.00,7,578.51,26-35,Discounted,Returning
+626,63,Female,Footwear,"Formal Shoes",208.69,Winter,Card,3.2,13.00,4,181.56,60+,Discounted,Returning
+627,60,Female,"Womens Clothing",Dress,31.81,Spring,Card,3.5,12.00,6,27.99,46-60,Discounted,Returning
+628,29,Male,Electronics,Laptop,1170.69,Summer,Card,3.5,16.00,3,983.38,26-35,Discounted,Returning
+629,54,Male,Footwear,"Formal Shoes",66.74,Autumn,"Cash on Delivery",4.3,12.00,6,58.73,46-60,Discounted,Returning
+630,23,Female,Beauty,"Skincare Kit",39.91,Spring,"Cash on Delivery",3.3,2.00,1,39.11,18-25,Discounted,Returning
+631,42,Female,Groceries,"Cooking Oil",10.19,Autumn,"Cash on Delivery",4.1,14.00,7,8.76,36-45,Discounted,Returning
+632,70,Male,"Mens Clothing",Jeans,69.05,Autumn,Card,3.9,8.00,4,63.53,60+,Discounted,Returning
+633,29,Male,Footwear,Sneakers,91.99,Winter,Card,2.9,25.00,10,68.99,26-35,Discounted,Returning
+634,38,Female,Footwear,"Formal Shoes",247.76,Winter,Card,3.3,11.00,3,220.51,36-45,Discounted,Returning
+635,45,Male,Footwear,"Formal Shoes",203.46,Autumn,Card,3.1,10.00,5,183.11,36-45,Discounted,Returning
+636,61,Male,Footwear,"Formal Shoes",118.53,Summer,Card,4.9,14.00,2,101.94,60+,Discounted,Returning
+637,66,Male,"Mens Clothing",Shirt,63.45,Winter,Card,3.6,15.00,5,53.93,60+,Discounted,Returning
+638,66,Female,Accessories,Sunglasses,129.69,Winter,Card,3.1,17.00,6,107.64,60+,Discounted,Returning
+639,27,Male,Electronics,"Smart Watch",736.92,Autumn,Card,3.3,12.00,1,648.49,26-35,Discounted,Returning
+640,52,Female,Beauty,"Skincare Kit",87.62,Autumn,Card,2.9,10.00,5,78.86,46-60,Discounted,Returning
+641,43,Female,Home,"Kitchen Set",140.00,Summer,Card,3.9,15.00,5,119.00,36-45,Discounted,Returning
+642,35,Male,Sports,Football,107.57,Summer,Card,3.9,12.00,6,94.66,26-35,Discounted,Returning
+643,34,Male,Groceries,"Cooking Oil",78.16,Spring,"Cash on Delivery",2.2,4.00,2,75.03,26-35,Discounted,Returning
+644,51,Female,"Womens Clothing",Dress,47.30,Autumn,"Cash on Delivery",3.9,7.00,1,43.99,46-60,Discounted,Returning
+645,43,Female,"Womens Clothing",Skirt,143.80,Autumn,Card,3.6,12.00,6,126.54,36-45,Discounted,Returning
+646,50,Male,Sports,Dumbbells,208.80,Summer,Card,3.4,4.00,2,200.45,46-60,Discounted,Returning
+647,33,Male,Home,Lamp,170.58,Summer,Card,4.2,8.00,4,156.93,26-35,Discounted,Returning
+648,30,Male,"Mens Clothing",Jeans,42.67,Autumn,"Cash on Delivery",4.1,8.00,4,39.26,26-35,Discounted,Returning
+649,54,Male,"Mens Clothing",Jeans,170.85,Summer,Card,3.4,13.00,4,148.64,46-60,Discounted,Returning
+650,70,Male,Footwear,"Formal Shoes",174.39,Summer,Card,3.2,20.00,5,139.51,60+,Discounted,Returning
+651,58,Male,Sports,Football,124.28,Spring,Card,3.1,16.00,3,104.40,46-60,Discounted,Returning
+652,69,Male,Sports,Dumbbells,100.45,Winter,Card,3.6,13.00,4,87.39,60+,Discounted,Returning
+653,52,Male,Home,"Kitchen Set",56.48,Spring,"Cash on Delivery",5.0,29.00,12,40.10,46-60,Discounted,Returning
+654,60,Female,Accessories,Wallet,30.06,Autumn,Card,4.6,22.00,6,23.45,46-60,Discounted,Returning
+655,70,Female,Footwear,Sandals,54.00,Autumn,Card,2.8,30.00,10,37.80,60+,Discounted,Returning
+656,67,Male,"Mens Clothing",Jeans,174.50,Summer,Card,4.5,15.00,5,148.33,60+,Discounted,Returning
+657,20,Female,Accessories,Sunglasses,92.35,Autumn,Card,3.3,12.00,1,81.27,18-25,Discounted,Returning
+658,33,Female,Accessories,Wallet,40.85,Summer,"Cash on Delivery",4.2,18.00,4,33.50,26-35,Discounted,Returning
+659,27,Male,Sports,"Yoga Mat",68.16,Spring,Card,4.1,10.00,5,61.34,26-35,Discounted,Returning
+660,33,Female,Beauty,"Makeup Set",107.56,Spring,Card,2.6,8.00,4,98.96,26-35,Discounted,Returning
+661,54,Female,Footwear,Sneakers,242.06,Spring,Card,4.1,19.00,7,196.07,46-60,Discounted,Returning
+662,45,Female,Beauty,Perfume,144.31,Autumn,Card,3.8,0.00,0,144.31,36-45,"No Discount",New
+663,28,Female,Beauty,Perfume,119.55,Winter,Card,3.6,6.00,3,112.38,26-35,Discounted,Returning
+664,46,Male,Sports,Football,56.34,Winter,"Cash on Delivery",2.9,11.00,3,50.14,46-60,Discounted,Returning
+665,25,Male,Home,Lamp,279.19,Summer,Card,4.5,8.00,4,256.85,18-25,Discounted,Returning
+666,31,Female,Beauty,"Makeup Set",34.01,Summer,Card,3.8,22.00,6,26.53,26-35,Discounted,Returning
+667,60,Male,Footwear,Sneakers,99.93,Winter,Card,3.5,28.00,9,71.95,46-60,Discounted,Returning
+668,64,Male,Electronics,Headphones,1514.05,Winter,Card,3.7,20.00,5,1211.24,60+,Discounted,Returning
+669,62,Male,"Mens Clothing",T-Shirt,182.98,Autumn,Card,3.1,13.00,4,159.19,60+,Discounted,Returning
+670,24,Male,Home,Curtains,237.47,Winter,Card,3.2,28.00,9,170.98,18-25,Discounted,Returning
+671,64,Male,Electronics,Laptop,1417.01,Spring,Card,4.0,2.00,1,1388.67,60+,Discounted,Returning
+672,27,Female,"Womens Clothing",Skirt,43.52,Summer,"Cash on Delivery",4.1,13.00,4,37.86,26-35,Discounted,Returning
+673,33,Female,"Womens Clothing",Skirt,116.95,Summer,Card,4.6,21.00,8,92.39,26-35,Discounted,Returning
+674,61,Female,"Womens Clothing",Jeans,196.34,Winter,Card,3.0,16.00,8,164.93,60+,Discounted,Returning
+675,68,Female,Footwear,Sandals,163.60,Spring,Card,4.3,22.00,6,127.61,60+,Discounted,Returning
+676,54,Male,Footwear,Sneakers,144.58,Spring,Card,3.9,24.00,7,109.88,46-60,Discounted,Returning
+677,22,Male,Sports,"Yoga Mat",158.64,Spring,Card,3.9,21.00,8,125.33,18-25,Discounted,Returning
+678,52,Female,Groceries,Beverages,5.89,Summer,Card,3.6,7.00,1,5.48,46-60,Discounted,Returning
+679,63,Female,Accessories,Handbag,168.46,Winter,Card,3.1,20.00,5,134.77,60+,Discounted,Returning
+680,53,Female,"Womens Clothing",Jeans,102.52,Spring,Card,4.3,16.00,8,86.12,46-60,Discounted,Returning
+681,31,Female,Beauty,"Skincare Kit",47.92,Summer,Card,3.6,8.00,4,44.09,26-35,Discounted,Returning
+682,27,Male,Sports,Dumbbells,119.22,Winter,Card,4.0,16.00,3,100.14,26-35,Discounted,Returning
+683,22,Male,Home,Lamp,83.17,Summer,"Cash on Delivery",4.6,22.00,6,64.87,18-25,Discounted,Returning
+684,41,Male,Electronics,Laptop,1496.40,Spring,Card,3.9,16.00,3,1256.98,36-45,Discounted,Returning
+685,35,Female,Home,Curtains,121.52,Summer,Card,3.6,10.00,5,109.37,26-35,Discounted,Returning
+686,51,Female,Beauty,"Makeup Set",101.58,Spring,Card,3.7,14.00,2,87.36,46-60,Discounted,Returning
+687,20,Female,Accessories,Wallet,96.93,Spring,"Cash on Delivery",3.2,12.00,6,85.30,18-25,Discounted,Returning
+688,63,Male,Sports,Football,195.87,Spring,Card,4.0,18.00,4,160.61,60+,Discounted,Returning
+689,57,Female,Footwear,Sneakers,152.19,Spring,Card,5.0,13.00,4,132.41,46-60,Discounted,Returning
+690,68,Male,"Mens Clothing",T-Shirt,71.13,Winter,"Cash on Delivery",3.8,10.00,5,64.02,60+,Discounted,Returning
+691,68,Female,Beauty,"Skincare Kit",139.64,Spring,Card,4.1,20.00,5,111.71,60+,Discounted,Returning
+692,65,Male,Footwear,Sandals,134.93,Summer,Card,4.0,15.00,5,114.69,60+,Discounted,Returning
+693,30,Male,Footwear,Sandals,75.61,Autumn,"Cash on Delivery",3.1,17.00,6,62.76,26-35,Discounted,Returning
+694,23,Female,Accessories,Sunglasses,115.77,Winter,Card,4.5,13.00,4,100.72,18-25,Discounted,Returning
+695,23,Female,Footwear,Sandals,223.09,Spring,Card,4.1,16.00,3,187.40,18-25,Discounted,Returning
+696,59,Female,Beauty,"Skincare Kit",127.79,Winter,Card,3.8,6.00,3,120.12,46-60,Discounted,Returning
+697,35,Male,Groceries,"Cooking Oil",49.52,Spring,"Cash on Delivery",3.6,13.00,4,43.08,26-35,Discounted,Returning
+698,59,Female,Footwear,Sneakers,105.81,Winter,Card,3.8,23.00,9,81.47,46-60,Discounted,Returning
+699,42,Female,"Womens Clothing",Dress,178.77,Summer,Card,3.4,9.00,2,162.68,36-45,Discounted,Returning
+700,28,Male,Groceries,"Rice Pack",54.61,Winter,Card,4.1,8.00,4,50.24,26-35,Discounted,Returning
+701,49,Male,Electronics,"Smart Watch",1321.86,Spring,Card,4.4,24.00,7,1004.61,46-60,Discounted,Returning
+702,36,Male,Footwear,Sneakers,157.33,Summer,Card,3.7,17.00,6,130.58,36-45,Discounted,Returning
+703,31,Male,Footwear,"Formal Shoes",157.43,Winter,Card,3.0,6.00,3,147.98,26-35,Discounted,Returning
+704,38,Male,"Mens Clothing",Jacket,160.98,Spring,Card,2.9,20.00,5,128.78,36-45,Discounted,Returning
+705,46,Male,Sports,"Yoga Mat",107.82,Winter,Card,3.9,7.00,1,100.27,46-60,Discounted,Returning
+706,39,Female,Footwear,"Formal Shoes",217.69,Summer,Card,2.6,10.00,5,195.92,36-45,Discounted,Returning
+707,45,Male,Sports,"Yoga Mat",141.27,Autumn,Card,3.2,16.00,3,118.67,36-45,Discounted,Returning
+708,57,Male,Footwear,Sandals,233.72,Summer,Card,2.8,14.00,7,201.00,46-60,Discounted,Returning
+709,53,Male,Electronics,Headphones,1792.88,Winter,Card,3.6,19.00,7,1452.23,46-60,Discounted,Returning
+710,24,Male,Electronics,"Smart Watch",1064.70,Winter,Card,5.0,18.00,4,873.05,18-25,Discounted,Returning
+711,44,Female,Accessories,Sunglasses,103.15,Autumn,Card,3.6,13.00,4,89.74,36-45,Discounted,Returning
+712,69,Male,Footwear,Sandals,48.78,Summer,Card,1.9,17.00,6,40.49,60+,Discounted,Returning
+713,64,Female,Beauty,Perfume,74.05,Spring,Card,4.9,21.00,8,58.50,60+,Discounted,Returning
+714,59,Female,"Womens Clothing",Dress,35.33,Summer,"Cash on Delivery",3.7,13.00,4,30.74,46-60,Discounted,Returning
+715,68,Female,"Womens Clothing",Jeans,114.33,Summer,Card,2.9,10.00,5,102.90,60+,Discounted,Returning
+716,48,Female,Accessories,Handbag,41.13,Winter,Card,3.2,9.00,2,37.43,46-60,Discounted,Returning
+717,56,Female,Home,"Kitchen Set",245.44,Spring,Card,3.2,2.00,1,240.53,46-60,Discounted,Returning
+718,36,Female,"Womens Clothing",Jeans,153.84,Winter,Card,3.2,0.00,0,153.84,36-45,"No Discount",New
+719,44,Female,Footwear,Sandals,236.11,Summer,Card,5.0,23.00,9,181.80,36-45,Discounted,Returning
+720,54,Female,"Womens Clothing",Dress,165.35,Autumn,Card,3.7,10.00,0,148.82,46-60,Discounted,New
+721,30,Female,Accessories,Sunglasses,59.51,Winter,Card,3.8,24.00,7,45.23,26-35,Discounted,Returning
+722,61,Male,Sports,Dumbbells,190.26,Winter,Card,4.4,14.00,2,163.62,60+,Discounted,Returning
+723,63,Female,Home,"Kitchen Set",168.64,Autumn,Card,3.2,6.00,3,158.52,60+,Discounted,Returning
+724,42,Male,Electronics,Headphones,2517.98,Summer,Card,3.2,17.00,6,2089.92,36-45,Discounted,Returning
+725,35,Male,Sports,Football,240.40,Winter,Card,3.7,10.00,5,216.36,26-35,Discounted,Returning
+726,66,Female,Groceries,Beverages,75.72,Spring,Card,3.9,14.00,7,65.12,60+,Discounted,Returning
+727,37,Male,Footwear,"Formal Shoes",229.47,Spring,Card,4.2,14.00,7,197.34,36-45,Discounted,Returning
+728,31,Female,Sports,Football,103.72,Winter,Card,3.4,20.00,5,82.98,26-35,Discounted,Returning
+729,46,Female,"Womens Clothing",Jeans,134.76,Summer,Card,4.6,20.00,5,107.81,46-60,Discounted,Returning
+730,46,Male,Groceries,"Rice Pack",59.16,Autumn,Card,4.5,24.00,7,44.96,46-60,Discounted,Returning
+731,51,Male,"Mens Clothing",T-Shirt,99.13,Summer,Card,4.1,17.00,6,82.28,46-60,Discounted,Returning
+732,38,Male,Sports,Dumbbells,205.60,Spring,Card,4.5,22.00,6,160.37,36-45,Discounted,Returning
+733,31,Male,Footwear,"Formal Shoes",51.91,Summer,"Cash on Delivery",2.2,2.00,1,50.87,26-35,Discounted,Returning
+734,26,Female,Beauty,"Makeup Set",64.09,Winter,Card,4.5,11.00,3,57.04,26-35,Discounted,Returning
+735,46,Female,Footwear,Sandals,44.74,Winter,"Cash on Delivery",3.6,13.00,4,38.92,46-60,Discounted,Returning
+736,42,Female,Home,Lamp,44.21,Summer,Card,3.4,15.00,5,37.58,36-45,Discounted,Returning
+737,24,Female,Accessories,Handbag,177.47,Winter,Card,3.3,8.00,4,163.27,18-25,Discounted,Returning
+738,30,Female,Beauty,"Makeup Set",114.32,Spring,Card,4.0,7.00,1,106.32,26-35,Discounted,Returning
+739,53,Male,Footwear,"Formal Shoes",139.94,Autumn,Card,3.5,13.00,4,121.75,46-60,Discounted,Returning
+740,29,Male,Footwear,Sneakers,247.94,Winter,Card,3.4,8.00,4,228.10,26-35,Discounted,Returning
+741,49,Male,Electronics,Laptop,2588.27,Summer,Card,4.9,11.00,3,2303.56,46-60,Discounted,Returning
+742,70,Male,Electronics,"Mobile Phone",780.60,Autumn,Card,4.7,20.00,5,624.48,60+,Discounted,Returning
+743,35,Male,Footwear,Sandals,113.18,Spring,Card,3.8,12.00,6,99.60,26-35,Discounted,Returning
+744,57,Male,Home,Lamp,107.82,Winter,Card,4.1,16.00,3,90.57,46-60,Discounted,Returning
+745,36,Male,Home,Lamp,224.49,Autumn,Card,4.5,12.00,6,197.55,36-45,Discounted,Returning
+746,52,Male,"Mens Clothing",Jacket,132.43,Summer,Card,3.5,12.00,1,116.54,46-60,Discounted,Returning
+747,47,Female,Sports,Football,57.77,Spring,"Cash on Delivery",2.9,16.00,3,48.53,46-60,Discounted,Returning
+748,24,Male,Sports,"Yoga Mat",139.11,Spring,Card,3.1,19.00,7,112.68,18-25,Discounted,Returning
+749,55,Female,Accessories,Wallet,159.49,Spring,Card,3.4,18.00,4,130.78,46-60,Discounted,Returning
+750,22,Male,Groceries,"Cooking Oil",36.59,Spring,"Cash on Delivery",3.2,15.00,5,31.10,18-25,Discounted,Returning
+751,36,Female,"Womens Clothing",Top,114.62,Summer,Card,3.4,16.00,3,96.28,36-45,Discounted,Returning
+752,60,Male,Sports,Dumbbells,79.86,Spring,"Cash on Delivery",4.4,19.00,7,64.69,46-60,Discounted,Returning
+753,43,Male,"Mens Clothing",Jacket,110.06,Summer,Card,3.3,20.00,10,88.05,36-45,Discounted,Returning
+754,57,Male,Sports,"Yoga Mat",203.13,Winter,Card,3.3,11.00,3,180.79,46-60,Discounted,Returning
+755,54,Male,Electronics,Laptop,1829.89,Winter,Card,4.9,30.00,10,1280.92,46-60,Discounted,Returning
+756,33,Female,Sports,Football,183.90,Summer,Card,2.6,15.00,5,156.32,26-35,Discounted,Returning
+757,63,Female,Footwear,"Formal Shoes",108.40,Spring,Card,2.6,16.00,3,91.06,60+,Discounted,Returning
+758,66,Male,Groceries,Snacks,37.90,Winter,Card,3.5,14.00,7,32.59,60+,Discounted,Returning
+759,30,Male,"Mens Clothing",T-Shirt,30.45,Summer,Card,3.6,15.00,5,25.88,26-35,Discounted,Returning
+760,55,Male,Sports,"Yoga Mat",54.84,Spring,"Cash on Delivery",1.1,8.00,4,50.45,46-60,Discounted,Returning
+761,35,Female,Accessories,Sunglasses,154.72,Spring,Card,3.2,26.00,8,114.49,26-35,Discounted,Returning
+762,33,Male,Electronics,Headphones,2603.54,Autumn,Card,4.4,12.00,6,2291.12,26-35,Discounted,Returning
+763,28,Male,Footwear,Sandals,192.41,Winter,Card,3.2,8.00,4,177.02,26-35,Discounted,Returning
+764,38,Male,Sports,"Yoga Mat",248.91,Autumn,Card,4.8,26.00,8,184.19,36-45,Discounted,Returning
+765,51,Male,Groceries,Beverages,43.81,Winter,"Cash on Delivery",4.1,7.00,1,40.74,46-60,Discounted,Returning
+766,24,Male,Groceries,"Cooking Oil",63.21,Spring,"Cash on Delivery",4.0,10.00,5,56.89,18-25,Discounted,Returning
+767,62,Male,Home,Curtains,98.00,Spring,"Cash on Delivery",5.0,28.00,9,70.56,60+,Discounted,Returning
+768,63,Male,Sports,"Yoga Mat",117.10,Autumn,Card,3.6,8.00,4,107.73,60+,Discounted,Returning
+769,60,Female,Sports,Dumbbells,248.11,Autumn,Card,3.9,20.00,5,198.49,46-60,Discounted,Returning
+770,26,Female,"Womens Clothing",Dress,43.35,Spring,Card,4.4,14.00,7,37.28,26-35,Discounted,Returning
+771,56,Female,Groceries,Beverages,62.63,Autumn,Card,3.7,18.00,4,51.36,46-60,Discounted,Returning
+772,21,Female,"Womens Clothing",Top,92.13,Winter,"Cash on Delivery",3.5,20.00,5,73.70,18-25,Discounted,Returning
+773,31,Female,Accessories,Wallet,136.74,Winter,Card,2.9,8.00,4,125.80,26-35,Discounted,Returning
+774,51,Female,Beauty,"Makeup Set",101.97,Autumn,Card,3.4,9.00,2,92.79,46-60,Discounted,Returning
+775,38,Female,"Womens Clothing",Top,50.83,Autumn,Card,3.9,7.00,1,47.27,36-45,Discounted,Returning
+776,52,Male,Footwear,Sandals,161.58,Spring,Card,2.6,22.00,11,126.03,46-60,Discounted,Returning
+777,36,Female,Groceries,Beverages,11.85,Spring,"Cash on Delivery",3.6,19.00,7,9.60,36-45,Discounted,Returning
+778,42,Male,Footwear,Sneakers,205.20,Winter,Card,2.9,4.00,2,196.99,36-45,Discounted,Returning
+779,69,Male,Home,Lamp,120.93,Summer,Card,4.5,28.00,9,87.07,60+,Discounted,Returning
+780,67,Male,"Mens Clothing",Jacket,35.68,Autumn,"Cash on Delivery",3.5,10.00,5,32.11,60+,Discounted,Returning
+781,69,Male,Sports,Dumbbells,109.07,Winter,Card,3.3,10.00,5,98.16,60+,Discounted,Returning
+782,30,Female,Footwear,"Formal Shoes",109.86,Winter,Card,3.6,9.00,2,99.97,26-35,Discounted,Returning
+783,40,Female,"Womens Clothing",Skirt,34.85,Summer,"Cash on Delivery",3.0,14.00,2,29.97,36-45,Discounted,Returning
+784,41,Female,Groceries,Snacks,70.84,Autumn,Card,4.4,12.00,6,62.34,36-45,Discounted,Returning
+785,20,Male,Footwear,Sandals,170.06,Winter,Card,4.4,12.00,1,149.65,18-25,Discounted,Returning
+786,39,Female,Home,Lamp,80.69,Spring,"Cash on Delivery",3.8,16.00,8,67.78,36-45,Discounted,Returning
+787,54,Male,Electronics,Laptop,980.43,Summer,Card,3.6,14.00,2,843.17,46-60,Discounted,Returning
+788,66,Male,Sports,Football,103.30,Spring,Card,2.6,6.00,3,97.10,60+,Discounted,Returning
+789,39,Male,Sports,Football,245.18,Winter,Card,4.0,20.00,5,196.14,36-45,Discounted,Returning
+790,39,Female,Accessories,Handbag,128.03,Spring,Card,3.7,8.00,4,117.79,36-45,Discounted,Returning
+791,21,Male,Sports,"Yoga Mat",231.08,Spring,Card,4.7,18.00,4,189.49,18-25,Discounted,Returning
+792,60,Female,"Womens Clothing",Jeans,48.29,Winter,"Cash on Delivery",3.9,22.00,6,37.67,46-60,Discounted,Returning
+793,27,Male,Electronics,Laptop,677.89,Summer,Card,3.3,16.00,8,569.43,26-35,Discounted,Returning
+794,36,Male,Sports,Football,163.62,Winter,Card,2.9,15.00,5,139.08,36-45,Discounted,Returning
+795,21,Female,Groceries,"Rice Pack",23.18,Spring,Card,4.4,11.00,3,20.63,18-25,Discounted,Returning
+796,63,Male,Sports,Dumbbells,136.33,Autumn,Card,4.6,15.00,5,115.88,60+,Discounted,Returning
+797,67,Male,Electronics,Laptop,2406.63,Winter,Card,3.2,16.00,3,2021.57,60+,Discounted,Returning
+798,27,Male,Footwear,Sneakers,172.16,Winter,Card,3.4,14.00,7,148.06,26-35,Discounted,Returning
+799,69,Male,Footwear,Sneakers,242.66,Spring,Card,5.0,2.00,1,237.81,60+,Discounted,Returning
+800,64,Male,Sports,Football,99.39,Autumn,Card,3.6,16.00,8,83.49,60+,Discounted,Returning
+801,62,Female,Beauty,Perfume,36.87,Winter,Card,4.7,23.00,9,28.39,60+,Discounted,Returning
+802,55,Male,Electronics,Laptop,2855.84,Autumn,Card,3.7,11.00,3,2541.70,46-60,Discounted,Returning
+803,49,Female,Accessories,Handbag,135.05,Spring,Card,2.9,6.00,3,126.95,46-60,Discounted,Returning
+804,34,Male,Sports,Football,49.52,Spring,"Cash on Delivery",2.3,9.00,2,45.06,26-35,Discounted,Returning
+805,42,Male,Footwear,Sneakers,161.18,Spring,Card,4.5,20.00,5,128.94,36-45,Discounted,Returning
+806,70,Female,Groceries,"Cooking Oil",36.30,Winter,Card,3.1,12.00,6,31.94,60+,Discounted,Returning
+807,42,Male,Electronics,"Mobile Phone",2889.05,Spring,Card,4.1,12.00,1,2542.36,36-45,Discounted,Returning
+808,49,Female,Footwear,"Formal Shoes",185.74,Spring,Card,2.5,13.00,4,161.59,46-60,Discounted,Returning
+809,57,Female,"Womens Clothing",Dress,149.82,Spring,Card,3.3,16.00,8,125.85,46-60,Discounted,Returning
+810,45,Female,Sports,"Yoga Mat",159.87,Winter,Card,3.6,11.00,3,142.28,36-45,Discounted,Returning
+811,47,Female,Footwear,Sneakers,116.66,Spring,Card,4.1,16.00,8,97.99,46-60,Discounted,Returning
+812,60,Male,Footwear,"Formal Shoes",69.97,Winter,Card,4.6,24.00,7,53.18,46-60,Discounted,Returning
+813,43,Female,Footwear,Sneakers,243.54,Winter,Card,4.1,22.00,6,189.96,36-45,Discounted,Returning
+814,64,Male,Sports,Football,182.00,Summer,Card,4.5,11.00,3,161.98,60+,Discounted,Returning
+815,55,Female,Beauty,"Makeup Set",129.26,Spring,Card,3.2,8.00,4,118.92,46-60,Discounted,Returning
+816,62,Female,Footwear,"Formal Shoes",199.51,Spring,Card,5.0,26.00,13,147.64,60+,Discounted,Returning
+817,48,Female,Groceries,Snacks,42.88,Summer,"Cash on Delivery",3.9,22.00,6,33.45,46-60,Discounted,Returning
+818,65,Female,"Womens Clothing",Skirt,108.50,Summer,Card,3.4,16.00,8,91.14,60+,Discounted,Returning
+819,27,Female,Beauty,"Makeup Set",38.35,Summer,"Cash on Delivery",5.0,13.00,4,33.36,26-35,Discounted,Returning
+820,68,Female,Groceries,"Rice Pack",28.85,Summer,Card,4.4,17.00,6,23.95,60+,Discounted,Returning
+821,64,Male,Electronics,Laptop,1305.74,Summer,Card,4.8,12.00,6,1149.05,60+,Discounted,Returning
+822,31,Male,Electronics,"Mobile Phone",2370.99,Spring,Card,3.6,20.00,5,1896.79,26-35,Discounted,Returning
+823,56,Female,Sports,Football,197.64,Summer,Card,5.0,22.00,6,154.16,46-60,Discounted,Returning
+824,55,Female,"Womens Clothing",Top,33.40,Summer,"Cash on Delivery",4.9,14.00,2,28.72,46-60,Discounted,Returning
+825,57,Female,Groceries,Beverages,68.77,Spring,Card,4.2,32.00,11,46.76,46-60,Discounted,Returning
+826,36,Female,"Womens Clothing",Jeans,42.75,Summer,Card,3.8,17.00,6,35.48,36-45,Discounted,Returning
+827,41,Female,Home,Curtains,157.96,Summer,Card,4.4,10.00,5,142.16,36-45,Discounted,Returning
+828,38,Male,Electronics,Headphones,2502.52,Autumn,Card,2.9,15.00,5,2127.14,36-45,Discounted,Returning
+829,43,Female,Sports,"Yoga Mat",93.26,Winter,Card,4.3,10.00,5,83.93,36-45,Discounted,Returning
+830,46,Male,Footwear,Sandals,160.09,Autumn,Card,4.0,8.00,4,147.28,46-60,Discounted,Returning
+831,38,Male,Electronics,Headphones,2841.72,Autumn,Card,4.0,23.00,9,2188.12,36-45,Discounted,Returning
+832,32,Male,Home,Curtains,220.24,Summer,Card,5.0,16.00,3,185.00,26-35,Discounted,Returning
+833,59,Male,Footwear,Sandals,239.65,Winter,Card,2.7,9.00,2,218.08,46-60,Discounted,Returning
+834,37,Female,"Womens Clothing",Jeans,41.62,Winter,Card,3.5,21.00,8,32.88,36-45,Discounted,Returning
+835,36,Male,Home,Lamp,254.85,Summer,Card,3.0,8.00,4,234.46,36-45,Discounted,Returning
+836,34,Female,"Womens Clothing",Dress,46.13,Summer,"Cash on Delivery",3.5,21.00,8,36.44,26-35,Discounted,Returning
+837,62,Female,Accessories,Handbag,144.18,Winter,Card,3.7,6.00,3,135.53,60+,Discounted,Returning
+838,59,Male,Sports,Football,140.99,Spring,Card,2.7,12.00,6,124.07,46-60,Discounted,Returning
+839,38,Male,Home,Lamp,140.12,Summer,Card,4.9,14.00,7,120.50,36-45,Discounted,Returning
+840,31,Male,"Mens Clothing",Jacket,81.16,Autumn,Card,3.9,21.00,8,64.12,26-35,Discounted,Returning
+841,40,Female,Accessories,Handbag,74.23,Spring,Card,4.4,11.00,3,66.06,36-45,Discounted,Returning
+842,51,Female,Accessories,Sunglasses,125.26,Spring,Card,4.7,14.00,2,107.72,46-60,Discounted,Returning
+843,24,Male,Footwear,Sandals,214.97,Winter,Card,4.2,19.00,7,174.13,18-25,Discounted,Returning
+844,23,Male,Electronics,"Mobile Phone",1810.64,Autumn,Card,4.5,11.00,3,1611.47,18-25,Discounted,Returning
+845,33,Male,"Mens Clothing",Jeans,140.65,Summer,Card,4.7,20.00,5,112.52,26-35,Discounted,Returning
+846,33,Male,Electronics,"Mobile Phone",2064.65,Autumn,Card,4.7,17.00,6,1713.66,26-35,Discounted,Returning
+847,36,Female,Groceries,"Cooking Oil",11.44,Autumn,Card,3.1,13.00,4,9.95,36-45,Discounted,Returning
+848,54,Female,Beauty,Perfume,76.66,Spring,"Cash on Delivery",4.3,12.00,6,67.46,46-60,Discounted,Returning
+849,64,Female,Accessories,Wallet,97.05,Autumn,"Cash on Delivery",4.3,17.00,6,80.55,60+,Discounted,Returning
+850,24,Male,Sports,Football,214.49,Autumn,Card,4.4,7.00,1,199.48,18-25,Discounted,Returning
+851,27,Male,"Mens Clothing",Jacket,43.04,Summer,"Cash on Delivery",2.0,13.00,4,37.44,26-35,Discounted,Returning
+852,42,Female,Accessories,Sunglasses,60.96,Spring,Card,3.2,4.00,2,58.52,36-45,Discounted,Returning
+853,40,Female,Home,Lamp,198.03,Autumn,Card,3.0,20.00,5,158.42,36-45,Discounted,Returning
+854,44,Female,Sports,Dumbbells,218.22,Spring,Card,3.3,19.00,7,176.76,36-45,Discounted,Returning
+855,51,Female,Home,Curtains,207.52,Spring,Card,3.6,17.00,6,172.24,46-60,Discounted,Returning
+856,55,Female,Beauty,"Skincare Kit",72.03,Autumn,Card,4.2,12.00,6,63.39,46-60,Discounted,Returning
+857,60,Male,Footwear,Sandals,186.72,Spring,Card,4.0,18.00,4,153.11,46-60,Discounted,Returning
+858,62,Male,Footwear,"Formal Shoes",114.97,Autumn,Card,2.9,22.00,11,89.68,60+,Discounted,Returning
+859,22,Male,Groceries,Snacks,40.19,Spring,"Cash on Delivery",3.7,14.00,2,34.56,18-25,Discounted,Returning
+860,32,Female,"Womens Clothing",Jeans,120.08,Spring,Card,3.5,8.00,4,110.47,26-35,Discounted,Returning
+861,58,Male,Electronics,Laptop,2431.86,Summer,Card,4.6,15.00,5,2067.08,46-60,Discounted,Returning
+862,59,Male,Electronics,Headphones,1129.00,Winter,Card,2.5,11.00,3,1004.81,46-60,Discounted,Returning
+863,40,Male,Footwear,Sneakers,96.21,Winter,"Cash on Delivery",2.6,11.00,3,85.63,36-45,Discounted,Returning
+864,46,Male,Electronics,Headphones,1454.05,Summer,Card,3.5,23.00,9,1119.62,46-60,Discounted,Returning
+865,22,Male,Sports,"Yoga Mat",210.91,Spring,Card,3.8,24.00,7,160.29,18-25,Discounted,Returning
+866,52,Female,"Womens Clothing",Dress,35.17,Autumn,Card,4.1,26.00,8,26.03,46-60,Discounted,Returning
+867,70,Male,Electronics,"Mobile Phone",2108.89,Winter,Card,4.4,23.00,9,1623.85,60+,Discounted,Returning
+868,51,Male,Sports,Dumbbells,219.04,Summer,Card,3.2,11.00,3,194.95,46-60,Discounted,Returning
+869,67,Female,Accessories,Sunglasses,48.74,Autumn,Card,3.1,24.00,7,37.04,60+,Discounted,Returning
+870,31,Female,"Womens Clothing",Jeans,93.29,Autumn,Card,5.0,16.00,3,78.36,26-35,Discounted,Returning
+871,58,Female,Footwear,Sandals,59.04,Autumn,Card,2.9,10.00,5,53.14,46-60,Discounted,Returning
+872,30,Male,Footwear,"Formal Shoes",87.70,Autumn,Card,4.2,19.00,7,71.04,26-35,Discounted,Returning
+873,39,Female,Beauty,Perfume,58.21,Winter,Card,2.5,7.00,1,54.14,36-45,Discounted,Returning
+874,69,Female,"Womens Clothing",Jeans,100.29,Winter,Card,2.6,24.00,7,76.22,60+,Discounted,Returning
+875,22,Male,Footwear,Sandals,154.20,Summer,Card,3.4,4.00,2,148.03,18-25,Discounted,Returning
+876,32,Male,Electronics,Laptop,1370.18,Spring,Card,3.0,20.00,5,1096.14,26-35,Discounted,Returning
+877,40,Male,Footwear,Sneakers,123.96,Summer,Card,4.1,11.00,3,110.32,36-45,Discounted,Returning
+878,32,Female,Footwear,"Formal Shoes",151.91,Summer,Card,4.2,22.00,6,118.49,26-35,Discounted,Returning
+879,69,Female,Home,Curtains,201.11,Spring,Card,3.9,11.00,3,178.99,60+,Discounted,Returning
+880,59,Male,Footwear,Sneakers,42.35,Spring,"Cash on Delivery",3.6,13.00,4,36.84,46-60,Discounted,Returning
+881,70,Female,Beauty,"Makeup Set",142.85,Winter,Card,3.2,20.00,5,114.28,60+,Discounted,Returning
+882,46,Male,Electronics,"Mobile Phone",533.08,Summer,Card,5.0,16.00,3,447.79,46-60,Discounted,Returning
+883,36,Female,Home,"Kitchen Set",100.72,Autumn,Card,2.8,22.00,6,78.56,36-45,Discounted,Returning
+884,31,Female,Accessories,Sunglasses,172.26,Summer,Card,2.8,20.00,5,137.81,26-35,Discounted,Returning
+885,46,Female,Sports,Dumbbells,200.96,Summer,Card,4.2,16.00,3,168.81,46-60,Discounted,Returning
+886,66,Female,Footwear,Sneakers,113.39,Spring,Card,3.4,23.00,9,87.31,60+,Discounted,Returning
+887,36,Female,Accessories,Wallet,65.17,Summer,"Cash on Delivery",4.6,15.00,5,55.39,36-45,Discounted,Returning
+888,42,Male,Footwear,Sneakers,154.55,Winter,Card,5.0,17.00,6,128.28,36-45,Discounted,Returning
+889,26,Male,"Mens Clothing",Jeans,100.84,Spring,Card,3.6,14.00,2,86.72,26-35,Discounted,Returning
+890,31,Male,Electronics,"Mobile Phone",1142.03,Winter,Card,4.2,10.00,5,1027.83,26-35,Discounted,Returning
+891,39,Male,"Mens Clothing",Shirt,168.97,Summer,Card,4.6,24.00,7,128.42,36-45,Discounted,Returning
+892,64,Male,Footwear,Sandals,220.97,Autumn,Card,5.0,4.00,2,212.13,60+,Discounted,Returning
+893,59,Female,Home,Curtains,181.46,Autumn,Card,3.1,18.00,4,148.80,46-60,Discounted,Returning
+894,30,Female,Footwear,Sneakers,212.78,Spring,Card,4.4,22.00,6,165.97,26-35,Discounted,Returning
+895,30,Female,Sports,"Yoga Mat",102.27,Spring,Card,3.1,16.00,8,85.91,26-35,Discounted,Returning
+896,40,Male,Sports,Dumbbells,101.71,Spring,Card,3.8,17.00,6,84.42,36-45,Discounted,Returning
+897,57,Male,Sports,"Yoga Mat",166.23,Spring,Card,4.0,20.00,5,132.98,46-60,Discounted,Returning
+898,59,Male,Footwear,Sneakers,82.01,Spring,"Cash on Delivery",3.3,16.00,3,68.89,46-60,Discounted,Returning
+899,23,Female,Footwear,Sandals,214.88,Winter,Card,5.0,20.00,5,171.90,18-25,Discounted,Returning
+900,64,Female,Accessories,Handbag,110.37,Spring,Card,4.2,17.00,6,91.61,60+,Discounted,Returning
+901,23,Male,Footwear,Sneakers,144.05,Summer,Card,2.6,18.00,4,118.12,18-25,Discounted,Returning
+902,47,Female,Accessories,Sunglasses,134.42,Winter,Card,4.1,8.00,4,123.67,46-60,Discounted,Returning
+903,64,Female,Beauty,"Skincare Kit",133.46,Winter,Card,4.6,10.00,5,120.11,60+,Discounted,Returning
+904,70,Female,Home,Lamp,256.37,Summer,Card,3.6,24.00,7,194.84,60+,Discounted,Returning
+905,59,Male,Sports,Dumbbells,160.42,Spring,Card,4.3,22.00,6,125.13,46-60,Discounted,Returning
+906,31,Male,Electronics,"Mobile Phone",1501.64,Autumn,Card,3.2,12.00,6,1321.44,26-35,Discounted,Returning
+907,69,Male,Footwear,"Formal Shoes",145.20,Autumn,Card,2.8,18.00,4,119.06,60+,Discounted,Returning
+908,50,Male,"Mens Clothing",Shirt,66.68,Winter,Card,3.1,13.00,4,58.01,46-60,Discounted,Returning
+909,60,Male,Electronics,"Smart Watch",592.23,Spring,Card,3.6,13.00,4,515.24,46-60,Discounted,Returning
+910,39,Male,Electronics,"Mobile Phone",646.99,Winter,Card,4.1,24.00,7,491.71,36-45,Discounted,Returning
+911,50,Male,Footwear,Sandals,58.87,Spring,"Cash on Delivery",3.1,16.00,3,49.45,46-60,Discounted,Returning
+912,42,Male,Sports,Dumbbells,51.43,Winter,Card,2.7,13.00,4,44.74,36-45,Discounted,Returning
+913,56,Female,Home,Lamp,235.41,Summer,Card,2.6,2.00,1,230.70,46-60,Discounted,Returning
+914,46,Female,Accessories,Wallet,99.47,Winter,"Cash on Delivery",3.7,22.00,11,77.59,46-60,Discounted,Returning
+915,40,Female,Accessories,Sunglasses,38.29,Autumn,Card,4.1,18.00,9,31.40,36-45,Discounted,Returning
+916,54,Male,Footwear,Sandals,240.73,Spring,Card,4.5,18.00,4,197.40,46-60,Discounted,Returning
+917,24,Female,"Womens Clothing",Top,145.27,Summer,Card,4.7,20.00,10,116.22,18-25,Discounted,Returning
+918,22,Male,Footwear,Sandals,140.13,Spring,Card,4.4,16.00,3,117.71,18-25,Discounted,Returning
+919,43,Male,Footwear,Sneakers,192.45,Autumn,Card,3.3,7.00,1,178.98,36-45,Discounted,Returning
+920,21,Male,Electronics,Headphones,2391.56,Spring,Card,3.7,24.00,7,1817.59,18-25,Discounted,Returning
+921,58,Female,Home,Curtains,246.33,Winter,Card,3.9,12.00,6,216.77,46-60,Discounted,Returning
+922,57,Male,Sports,Dumbbells,39.18,Summer,"Cash on Delivery",3.4,23.00,9,30.17,46-60,Discounted,Returning
+923,25,Female,Beauty,"Skincare Kit",21.93,Autumn,"Cash on Delivery",4.5,18.00,4,17.98,18-25,Discounted,Returning
+924,35,Male,"Mens Clothing",T-Shirt,35.65,Autumn,Card,4.5,13.00,4,31.02,26-35,Discounted,Returning
+925,23,Male,"Mens Clothing",Jacket,174.44,Summer,Card,2.9,14.00,7,150.02,18-25,Discounted,Returning
+926,23,Female,Accessories,Wallet,130.70,Spring,Card,3.2,19.00,7,105.87,18-25,Discounted,Returning
+927,31,Male,Sports,Football,231.91,Winter,Card,4.4,21.00,8,183.21,26-35,Discounted,Returning
+928,33,Female,Accessories,Wallet,130.37,Autumn,Card,3.3,6.00,3,122.55,26-35,Discounted,Returning
+929,45,Female,"Womens Clothing",Top,185.70,Autumn,Card,2.8,8.00,4,170.84,36-45,Discounted,Returning
+930,59,Male,Groceries,Snacks,8.70,Autumn,"Cash on Delivery",3.5,32.00,11,5.92,46-60,Discounted,Returning
+931,43,Male,Electronics,Laptop,2197.99,Summer,Card,4.1,10.00,5,1978.19,36-45,Discounted,Returning
+932,27,Male,Sports,"Yoga Mat",113.14,Summer,Card,4.4,10.00,5,101.83,26-35,Discounted,Returning
+933,53,Male,Footwear,"Formal Shoes",223.47,Autumn,Card,3.4,8.00,4,205.59,46-60,Discounted,Returning
+934,60,Male,Sports,Football,203.10,Autumn,Card,3.9,10.00,5,182.79,46-60,Discounted,Returning
+935,42,Male,"Mens Clothing",Jeans,85.93,Winter,Card,2.6,22.00,6,67.03,36-45,Discounted,Returning
+936,43,Male,Electronics,Headphones,622.06,Autumn,Card,3.5,20.00,5,497.65,36-45,Discounted,Returning
+937,62,Male,Home,"Kitchen Set",136.93,Autumn,Card,2.0,12.00,6,120.50,60+,Discounted,Returning
+938,52,Female,Home,Curtains,287.12,Spring,Card,4.2,28.00,9,206.73,46-60,Discounted,Returning
+939,70,Male,Footwear,Sandals,223.82,Summer,Card,5.0,9.00,2,203.68,60+,Discounted,Returning
+940,69,Female,Groceries,Beverages,52.06,Spring,Card,4.7,20.00,5,41.65,60+,Discounted,Returning
+941,38,Male,Home,Lamp,230.54,Spring,Card,4.2,16.00,8,193.65,36-45,Discounted,Returning
+942,64,Female,Accessories,Wallet,146.23,Summer,Card,4.0,14.00,7,125.76,60+,Discounted,Returning
+943,43,Female,"Womens Clothing",Jeans,84.02,Spring,"Cash on Delivery",4.0,8.00,4,77.30,36-45,Discounted,Returning
+944,40,Male,Electronics,Laptop,570.66,Winter,Card,3.7,7.00,1,530.71,36-45,Discounted,Returning
+945,59,Male,Footwear,Sandals,208.68,Winter,Card,2.9,22.00,6,162.77,46-60,Discounted,Returning
+946,55,Male,"Mens Clothing",Shirt,105.92,Spring,Card,4.0,14.00,2,91.09,46-60,Discounted,Returning
+947,67,Male,Electronics,"Smart Watch",594.99,Winter,Card,4.7,15.00,5,505.74,60+,Discounted,Returning
+948,48,Male,Sports,Football,122.60,Spring,Card,3.6,14.00,7,105.44,46-60,Discounted,Returning
+949,62,Female,Beauty,"Skincare Kit",105.62,Winter,Card,3.6,29.00,12,74.99,60+,Discounted,Returning
+950,57,Female,Home,Curtains,57.08,Winter,"Cash on Delivery",3.9,10.00,5,51.37,46-60,Discounted,Returning
+951,44,Male,Home,Lamp,157.74,Winter,Card,3.3,17.00,6,130.92,36-45,Discounted,Returning
+952,25,Male,Groceries,Snacks,77.76,Summer,Card,4.3,27.00,11,56.76,18-25,Discounted,Returning
+953,48,Female,Home,Curtains,243.65,Autumn,Card,4.8,15.00,5,207.10,46-60,Discounted,Returning
+954,28,Male,Sports,Dumbbells,73.60,Spring,Card,3.3,14.00,7,63.30,26-35,Discounted,Returning
+955,51,Female,Footwear,"Formal Shoes",187.41,Spring,Card,4.4,20.00,5,149.93,46-60,Discounted,Returning
+956,46,Female,Footwear,Sneakers,191.13,Spring,Card,3.9,12.00,6,168.19,46-60,Discounted,Returning
+957,24,Male,Electronics,"Smart Watch",2923.37,Winter,Card,3.5,15.00,5,2484.86,18-25,Discounted,Returning
+958,66,Female,Groceries,Snacks,56.64,Summer,"Cash on Delivery",4.0,18.00,9,46.44,60+,Discounted,Returning
+959,47,Male,Groceries,"Cooking Oil",54.21,Summer,"Cash on Delivery",3.7,15.00,5,46.08,46-60,Discounted,Returning
+960,60,Female,Accessories,Handbag,117.39,Summer,Card,2.9,10.00,5,105.65,46-60,Discounted,Returning
+961,40,Female,Footwear,Sneakers,197.69,Winter,Card,1.8,20.00,5,158.15,36-45,Discounted,Returning
+962,47,Male,Sports,Football,178.62,Winter,Card,3.3,16.00,8,150.04,46-60,Discounted,Returning
+963,54,Male,"Mens Clothing",Jeans,199.78,Autumn,Card,3.0,2.00,1,195.78,46-60,Discounted,Returning
+964,31,Male,Sports,"Yoga Mat",243.71,Winter,Card,3.8,4.00,2,233.96,26-35,Discounted,Returning
+965,37,Male,Electronics,Laptop,2839.22,Summer,Card,3.9,16.00,8,2384.94,36-45,Discounted,Returning
+966,55,Female,Footwear,"Formal Shoes",103.82,Autumn,Card,4.5,16.00,3,87.21,46-60,Discounted,Returning
+967,60,Female,Accessories,Handbag,131.19,Autumn,Card,3.8,6.00,3,123.32,46-60,Discounted,Returning
+968,52,Male,"Mens Clothing",Jacket,194.91,Summer,Card,4.9,23.00,9,150.08,46-60,Discounted,Returning
+969,48,Male,Footwear,"Formal Shoes",113.38,Spring,Card,2.6,11.00,3,100.91,46-60,Discounted,Returning
+970,55,Female,Footwear,"Formal Shoes",122.62,Spring,Card,2.7,13.00,4,106.68,46-60,Discounted,Returning
+971,39,Female,Beauty,"Skincare Kit",126.77,Spring,Card,3.7,24.00,7,96.35,36-45,Discounted,Returning
+972,56,Male,Footwear,Sandals,247.66,Winter,Card,4.5,22.00,6,193.17,46-60,Discounted,Returning
+973,55,Male,Sports,Dumbbells,245.63,Winter,Card,4.0,15.00,5,208.79,46-60,Discounted,Returning
+974,59,Male,Sports,Football,42.70,Winter,Card,2.9,8.00,4,39.28,46-60,Discounted,Returning
+975,32,Female,Sports,Football,143.21,Winter,Card,3.4,22.00,6,111.70,26-35,Discounted,Returning
+976,20,Male,"Mens Clothing",T-Shirt,182.98,Autumn,Card,4.5,20.00,5,146.38,18-25,Discounted,Returning
+977,50,Male,Electronics,Laptop,1854.10,Autumn,Card,4.2,12.00,6,1631.61,46-60,Discounted,Returning
+978,32,Male,Footwear,"Formal Shoes",122.08,Autumn,Card,3.4,18.00,4,100.11,26-35,Discounted,Returning
+979,52,Female,Accessories,Wallet,81.60,Autumn,Card,4.3,22.00,6,63.65,46-60,Discounted,Returning
+980,20,Female,Footwear,Sneakers,191.41,Winter,Card,3.6,15.00,5,162.70,18-25,Discounted,Returning
+981,24,Male,Sports,"Yoga Mat",31.49,Winter,Card,3.5,16.00,3,26.45,18-25,Discounted,Returning
+982,28,Female,Footwear,Sneakers,50.93,Autumn,"Cash on Delivery",4.3,11.00,3,45.33,26-35,Discounted,Returning
+983,52,Female,Accessories,Sunglasses,167.87,Winter,Card,3.5,26.00,8,124.22,46-60,Discounted,Returning
+984,50,Male,Footwear,"Formal Shoes",119.80,Autumn,Card,4.7,22.00,6,93.44,46-60,Discounted,Returning
+985,34,Male,"Mens Clothing",Jacket,93.54,Spring,"Cash on Delivery",3.4,16.00,8,78.57,26-35,Discounted,Returning
+986,47,Male,Sports,Dumbbells,194.21,Autumn,Card,3.5,16.00,3,163.14,46-60,Discounted,Returning
+987,46,Male,Sports,"Yoga Mat",96.22,Autumn,"Cash on Delivery",3.1,20.00,5,76.98,46-60,Discounted,Returning
+988,60,Male,Electronics,Headphones,802.10,Autumn,Card,4.1,16.00,3,673.76,46-60,Discounted,Returning
+989,42,Female,"Womens Clothing",Jeans,126.92,Spring,Card,3.6,16.00,3,106.61,36-45,Discounted,Returning
+990,68,Male,"Mens Clothing",T-Shirt,46.11,Winter,Card,5.0,12.00,1,40.58,60+,Discounted,Returning
+991,66,Male,Sports,Football,172.75,Autumn,Card,4.2,20.00,5,138.20,60+,Discounted,Returning
+992,43,Male,Electronics,Headphones,1247.66,Spring,Card,2.5,15.00,5,1060.51,36-45,Discounted,Returning
+993,61,Male,Footwear,Sneakers,70.46,Summer,Card,4.6,4.00,2,67.64,60+,Discounted,Returning
+994,33,Male,Sports,"Yoga Mat",90.86,Autumn,Card,4.0,16.00,8,76.32,26-35,Discounted,Returning
+995,36,Male,"Mens Clothing",T-Shirt,56.95,Winter,Card,3.9,12.00,6,50.12,36-45,Discounted,Returning
+996,65,Male,"Mens Clothing",Jacket,100.40,Autumn,Card,3.8,17.00,6,83.33,60+,Discounted,Returning
+997,42,Female,Home,Lamp,142.73,Autumn,Card,4.1,15.00,5,121.32,36-45,Discounted,Returning
+998,34,Male,Electronics,Laptop,2857.91,Summer,Card,3.5,8.00,4,2629.28,26-35,Discounted,Returning
+999,62,Male,"Mens Clothing",Jacket,79.55,Summer,Card,3.9,12.00,6,70.00,60+,Discounted,Returning
+1000,46,Female,Groceries,"Rice Pack",17.85,Winter,"Cash on Delivery",5.0,26.00,8,13.21,46-60,Discounted,Returning
